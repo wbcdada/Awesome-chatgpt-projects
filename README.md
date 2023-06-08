@@ -98,7 +98,7 @@
     <td>一键式在 Vercel 上部署精心设计的 ChatGPT 网络用户界面。一键拥有你自己的 ChatGPT 网页服务。</td>
     <td>-</td> 
     <td ><a href="https://chatgpt.nextweb.fun/" target="_blank" >🔗demo </a>
-      <a href="[https://chatgpt.nextweb.fun/](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)" target="_blank" >🔗deploy </a>
+      <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web" target="_blank" >🔗deploy </a>
     </td> 
   </tr>
 </table>

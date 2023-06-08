@@ -142,6 +142,13 @@
     <td><a href="https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/" target="_blank"> official </a></td> 
     <td><a href="https://www.wuxui.com/#/introduce" target="_blank">🔗doc </a> </td> 
   </tr>
+  <tr>
+    <td>4.</td>
+    <td><a href="https://github.com/opendigg/awesome-github-wechat-weapp" target="_blank"> awesome-github-wechat-weapp </a> </td>
+    <td>微信小程序开源项目库汇总</td>
+    <td>-</td> 
+    <td><a href="https://github.com/opendigg/awesome-github-wechat-weapp" target="_blank">🔗 </a> </td> 
+  </tr>
 </table>
 
 ### 前端

@@ -28,14 +28,14 @@
     <td>1.</td>
     <td><a href="https://github.com/d2-projects/d2-admin" target="_blank">D2Admin </a> </td>
     <td>企业后台产品前端整合方案</td>
-    <td></td> 
+    <td>-</td> 
     <td><a href="https://d2-projects.github.io/d2-admin/#/index" target="_blank">🔗 </a> </td> 
   </tr>
     <tr>
     <td>2.</td>
     <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md" target="_blank"> Leetcode 题解 </a> </td>
     <td>200精选题</td>
-    <td></td> 
+    <td>-</td> 
     <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md" target="_blank">🔗 </a> </td> 
   </tr>
 </table>
@@ -48,10 +48,16 @@
     <td>1.</td>
     <td><a href="https://github.com/HashLips/hashlips_art_engine" target="_blank">HashLips </a> </td>
     <td>NFT测试图片</td>
-    <td></td> 
+    <td>-</td> 
     <td><a href="https://github.com/HashLips/hashlips_art_engine" target="_blank">🔗 </a> </td> 
   </tr>
-
+  <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/niclin/nic_meta/blob/master/contracts/nic_meta_nft.sol" target="_blank"> NFT ERC-721 Basic Example </a> </td>
+    <td>NFT简单方案</td>
+    <td>-</td> 
+    <td><a href="https://github.com/niclin/nic_meta/blob/master/contracts/nic_meta_nft.sol" target="_blank">🔗 </a> </td> 
+  </tr>
 </table>
 
 

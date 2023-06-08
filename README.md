@@ -60,6 +60,19 @@
   </tr>
 </table>
 
+### 应用开发
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/junwuyi/GoodWeather#/" target="_blank">Andriod 天气预报 App </a> </td>
+    <td>Java</td>
+    <td>-</td> 
+    <td><a href="https://wis.qq.com/weather/common?source=pc&weather_type=observe|index|rise|alarm|air|tips|forecast_24h&province=&city=" target="_blank">🔗 腾讯天气接口</a> </td> 
+  </tr>
+
+</table>
 
 ### 面试
 

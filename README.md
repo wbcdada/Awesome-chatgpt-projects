@@ -194,7 +194,7 @@
     <td ><a href="https://github.com/X-Lucifer/AI-Lossless-Zoomer/releases" target="_blank" >🔗Download </a> </td> 
   </tr>
   <tr>
-    <td>12.</td>
+    <td>16.</td>
     <td><a href="https://github.com/PeterL1n/BackgroundMattingV2" target="_blank">BackgroundMattingV2</a> </td>
     <td>实时高分辨率背景抠图</td>
     <td><a href="https://colab.research.google.com/drive/1cTxFq1YuoJ5QPqaTcnskwlHDolnjBkB9?usp=sharing" target="_blank" >🔗图像抠图 </a>
@@ -203,30 +203,85 @@
     <td ><a href="https://grail.cs.washington.edu/projects/background-matting-v2/#/" target="_blank" >🔗Page </a> </td> 
   </tr>
   <tr>
-    <td>12.</td>
-    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
-    <td>《深度学习框架PyTorch：入门与实战》</td>
-    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
-    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+    <td>17.</td>
+    <td><a href="https://github.com/microsoft/Swin-Transformer" target="_blank">Swin-Transformer</a> </td>
+    <td>Swin-Transformer</td>
+    <td>图片分类、对图像检测和实例分割、语义分割、视频动作认识别、半监对象检测、SSL：对比学习、SSL：蒙版图像构建模型、混合专家、特征蒸馏</td> 
+    <td ><a href="https://arxiv.org/pdf/2103.14030.pdf" target="_blank" >🔗paper </a> </td> 
   </tr><tr>
-    <td>12.</td>
-    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
-    <td>《深度学习框架PyTorch：入门与实战》</td>
-    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
-    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+    <td>18.</td>
+    <td><a href="https://github.com/TencentARC/GFPGAN" target="_blank">GFPGAN</a> </td>
+    <td>真实世界人脸修复算法</td>
+    <td>StyleGAN2</td> 
+    <td ><a href="https://replicate.com/tencentarc/gfpgan" target="_blank" >🔗demo </a> 
+      <a href="https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo" target="_blank" >🔗colab </a>
+      <a href="https://xinntao.github.io/projects/gfpgan" target="_blank" >🔗Page </a>
+      <a href="https://arxiv.org/pdf/2101.04061.pdf" target="_blank" >🔗paper </a>
+  </td> 
   </tr>
   <tr>
-    <td>12.</td>
-    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
-    <td>《深度学习框架PyTorch：入门与实战》</td>
-    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
-    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
-  </tr><tr>
-    <td>12.</td>
-    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
-    <td>《深度学习框架PyTorch：入门与实战》</td>
-    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
-    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+    <td>19.</td>
+    <td><a href="https://github.com/xinntao/HandyView" target="_blank">HandyView</a> </td>
+    <td>PyQt5 开发的图像查看器，方便查看和比较 </td>
+    <td>-</td> 
+    <td ><a href="https://github.com/xinntao/HandyView/releases" target="_blank" >🔗download </a> </td> 
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td><a href="https://github.com/NVIDIA/pix2pixHD" target="_blank">pix2pixHD</a> </td>
+    <td>使用条件 GAN 合成和语义操作 2048x1024 图像</td>
+    <td>conditional GAN</td> 
+    <td ><a href="https://tcwang0509.github.io/pix2pixHD/" target="_blank" >🔗Page </a>
+      <a href="https://www.youtube.com/watch?v=3AIpPlzM_qs" target="_blank" >🔗video </a>
+      <a href="https://arxiv.org/pdf/1711.11585.pdf" target="_blank" >🔗Paper </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>21.</td>
+    <td><a href="https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology" target="_blank">DeepNude</a> </td>
+    <td>DeepNude 图像到图像技术</td>
+    <td>pix2pix、CycleGAN、UGATIT、DCGAN、SinGAN、VAE 、ALAE、mGANprior和StarGAN-v2</td> 
+    <td ><a href="https://affinelayer.com/pixsrv/" target="_blank" >🔗img2img demo </a>
+      <a href="https://thispersondoesnotexist.com/" target="_blank" >🔗fakeman demo </a>
+      <a href="http://thesecatsdonotexist.com/" target="_blank" >🔗fakecat demo </a>
+      <a href="https://www.thiswaifudoesnotexist.net/" target="_blank" >🔗fakeanime demo </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>22.</td>
+    <td><a href="https://github.com/MarekKowalski/FaceSwap" target="_blank">FaceSwap</a> </td>
+    <td>Python实现的3D人脸交换</td>
+    <td>-</td> 
+    <td ><a href="https://www.youtube.com/watch?v=yZRuSsyxvos" target="_blank" >🔗video </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>23.</td>
+    <td><a href="https://github.com/leftthomas/ESPCN" target="_blank">ESPCN</a> </td>
+    <td>使用高效的亚像素卷积神经网络进行实时单图像和视频超分辨率处理</td>
+    <td>-</td> 
+    <td >
+      <a href="https://v.youku.com/v_show/id_XMzIwMDEzODMzNg==.html?spm=a2hzp.8244740.0.0" target="_blank" >🔗video </a>
+      <a href="https://arxiv.org/pdf/1609.05158.pdf" target="_blank" >🔗Paper </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>24.</td>
+    <td><a href="https://github.com/XuecaiHu/Meta-SR-Pytorch" target="_blank">Meta-SR-Pytorch</a> </td>
+    <td>Meta-SR：用于超分辨率的任意放大网络 (CVPR2019)</td>
+    <td>-</td> 
+    <td >
+      <a href="https://arxiv.org/pdf/1903.00875.pdf" target="_blank" >🔗Paper </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>25.</td>
+    <td><a href="https://github.com/BUPTLdy/Pytorch-LapSRN" target="_blank">Pytorch-LapSRN</a> </td>
+    <td>用于快速准确超分辨率的深度拉普拉斯金字塔网络</td>
+    <td>-</td> 
+    <td ><a href="https://github.com/phoenix104104/LapSRN" target="_blank" >🔗original </a>
+      <a href="https://arxiv.org/pdf/1704.03915.pdf" target="_blank" >🔗Paper </a>
+  </td> 
   </tr>
 </table>
 

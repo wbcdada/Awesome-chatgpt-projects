@@ -61,7 +61,7 @@
 </table>
 
 
-### Leetcode
+### 面试
 
 <table>
 
@@ -79,4 +79,19 @@
     <td></td> 
     <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md" target="_blank">🔗 </a> </td> 
   </tr>
+  <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/changgyhub/leetcode_101" target="_blank"> LeetCode 101：和你一起起你轻刷题（C++） </a> </td>
+    <td>C++刷题图书</td>
+    <td></td> 
+    <td><a href="https://www.changgy.com/leetcode-101" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td><a href="https://github.com/billryan/resume" target="_blank"> LaTeX 简历模板 </a> </td>
+    <td>简历模板</td>
+    <td></td> 
+    <td><a href="https://www.overleaf.com/latex/templates/bill-ryans-elegant-latex-resume/xcqmhktmzmsw" target="_blank">🔗 </a> </td> 
+  </tr>
+  
 </table>

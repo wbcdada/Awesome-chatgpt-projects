@@ -60,6 +60,47 @@
     <td>拖放 UI 以使用 LangchainJS 构建自定义的 LLM 流程</td> 
     <td ><a href="https://railway.app/template/YK7J0v" target="_blank" >🔗railway </a><a href="https://railway.app/template/YK7J0v" target="_blank" >🔗render </a> </td> 
   </tr>
+  <tr>
+    <td>9.</td>
+    <td><a href="https://github.com/ayaka14732/ChatGPTAPIFree" target="_blank">ChatGPTAPIFree</a> </td>
+    <td>免费访问 OpenAI 的 ChatGPT API</td>
+    <td><a href="https://github.com/ztjhz/BetterChatGPT" target="_blank" >免费chatgpt客户端 </a></td> 
+    <td ><a href="https://bettergpt.chat/" target="_blank" >🔗website </a>
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td><a href="https://github.com/JimmyLv/BibiGPT" target="_blank">BibiGPT</a> </td>
+    <td>AI 摘要和学习内容聊天</td>
+    <td>哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地音视频文件等学习内容</td> 
+    <td ><a href="https://b.jimmylv.cn/" target="_blank" >🔗website1 </a><a href="https://bibigpt.co" target="_blank" >🔗website2 </a> </td> 
+  </tr>
+  <tr>
+    <td>11.</td>
+    <td><a href="https://github.com/rockbenben/ChatGPT-Shortcut" target="_blank">ChatGPT-Shortcut</a> </td>
+    <td>让生产力加倍的ChatGPT 快速指令</td>
+    <td>点击领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制</td> 
+    <td ><a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fgh-pages" target="_blank" >🔗deploy </a>
+      <a href="https://www.aishort.top/" target="_blank" >🔗website </a> 
+      <a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank" >🔗original </a>
+    </td> 
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td><a href="https://github.com/josStorer/chatGPTBox" target="_blank">chatGPTBox</a> </td>
+    <td>在浏览器中深度chatGPT 集成，完全免费</td>
+    <td>-</td> 
+    <td ><a href="https://github.com/josStorer/chatGPTBox" target="_blank" >🔗 </a>
+    </td> 
+  </tr>
+  <tr>
+    <td>13.</td>
+    <td><a href="https://github.com/Yidadaa/ChatGPT-Next-Web" target="_blank">ChatGPT-Next-Web</a> </td>
+    <td>一键式在 Vercel 上部署精心设计的 ChatGPT 网络用户界面。一键拥有你自己的 ChatGPT 网页服务。</td>
+    <td>-</td> 
+    <td ><a href="https://chatgpt.nextweb.fun/" target="_blank" >🔗demo </a>
+      <a href="[https://chatgpt.nextweb.fun/](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)" target="_blank" >🔗deploy </a>
+    </td> 
+  </tr>
 </table>
 
 ### 人工智能
@@ -337,13 +378,29 @@
   </td> 
   </tr>
   <tr>
-    <td>29.</td>
+    <td>32.</td>
     <td><a href="https://github.com/zhwesky2010/PaConvert" target="_blank">PaConvert</a> </td>
-    <td>自动将其深度学习代码，转换为PaddlePaddle的代码</td>
+    <td>自动将其深度学习代码转换为PaddlePaddle的代码</td>
     <td>-</td> 
     <td ><a href="https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/guides/model_convert/convert_from_pytorch/pytorch_api_mapping_cn.html#pytorch-1-13-paddle-2-4-api" target="_blank" >🔗Api映射表 </a>
  
   </td> 
+  </tr>
+    <tr>
+    <td>33.</td>
+    <td><a href="https://github.com/camenduru/stable-diffusion-webui-colab" target="_blank">stable-diffusion-webui-colab</a> </td>
+    <td>稳定的 WebUI 和稳定的已安装扩展</td>
+    <td>-</td> 
+    <td ><a href="https://github.com/camenduru/stable-diffusion-webui-colab" target="_blank" >🔗 </a>
+    </td> 
+  </tr>
+  <tr>
+    <td>34.</td>
+    <td><a href="https://github.com/Akegarasu/lora-scripts" target="_blank">lora-scripts</a> </td>
+    <td>LoRA脚本</td>
+    <td>-</td> 
+    <td ><a href="https://github.com/Akegarasu/lora-scripts" target="_blank" >🔗 </a>
+    </td> 
   </tr>
 </table>
 

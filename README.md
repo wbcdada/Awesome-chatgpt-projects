@@ -108,6 +108,13 @@
     <td>Jina生态，clip跨模态搜索与向量检索，streamlit</td> 
     <td ><a href="https://linklearner.com/#/" target="_blank" >🔗Page </a> </td> 
   </tr>
+  <tr>
+    <td>7.</td>
+    <td><a href="https://github.com/ShusenTang/Dive-into-DL-PyTorch" target="_blank">Dive-into-DL-PyTorch</a> </td>
+    <td>《动手学深度学习》 书中MXNet代码实现改为PyTorch实现</td>
+    <td><a href="https://github.com/d2l-ai/d2l-zh" target="_blank">original</a></td> 
+    <td ><a href="https://tangshusen.me/Dive-into-DL-PyTorch/#/" target="_blank" >🔗Page </a> <a href="https://docsify.js.org/#/zh-cn/" target="_blank" >🔗GitHub文档生成器 </a> </td> 
+  </tr>
 </table>
 
 ### 微信小程序

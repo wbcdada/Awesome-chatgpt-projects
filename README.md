@@ -402,6 +402,54 @@
     <td ><a href="https://github.com/Akegarasu/lora-scripts" target="_blank" >🔗 </a>
     </td> 
   </tr>
+  <tr>
+    <td>35.</td>
+    <td><a href="https://github.com/HobbitLong/RepDistiller" target="_blank">RepDistiller</a> </td>
+    <td>对比表示蒸馏，以及近期知识蒸馏方法的benchmark</td>
+    <td>ICLR 2020</td> 
+    <td ><a href="https://hobbitlong.github.io/CRD/" target="_blank" >🔗Page </a>
+      <a href="https://arxiv.org/pdf/1910.10699.pdf" target="_blank" >🔗Paper </a>
+    </td> 
+  </tr>
+  <tr>
+    <td>36.</td>
+    <td><a href="https://github.com/kailashahirwar/cheatsheets-ai" target="_blank">cheatsheets-ai</a> </td>
+    <td>深度学习和机器学习研究人员的基本备忘单</td>
+    <td>-</td> 
+    <td ><a href="https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5" target="_blank" >🔗blog </a>
+    </td> 
+  </tr>
+  <tr>
+    <td>37.</td>
+    <td><a href="https://github.com/wyhuai/DDNM" target="_blank">DDNM</a> </td>
+    <td>使用去噪扩散零空间模型的零样本图像恢复</td>
+    <td>ICLR 2023 Oral</td> 
+    <td ><a href="https://arxiv.org/pdf/2212.00490.pdf" target="_blank" >🔗paper </a>
+      <a href="https://wyhuai.github.io/ddnm.io/" target="_blank" >🔗Page </a>
+      <a href="https://colab.research.google.com/drive/1SRSD6GXGqU0eO2CoTNY-2WykB9qRZHJv?usp=sharing" target="_blank" >🔗colab</a>
+      <a href="https://huggingface.co/spaces/hysts/DDNM-HQ" target="_blank" >🔗demo</a>
+    </td> 
+  </tr>
+  <tr>
+    <td>38.</td>
+    <td><a href="https://github.com/SaoYan/DnCNN-PyTorch" target="_blank">DnCNN-PyTorch</a> </td>
+    <td>超越高斯去噪器：深度卷积神经网络的残差学习用于图像去噪</td>
+    <td>TIP2017</td> 
+    <td ><a href="https://arxiv.org/pdf/1608.03981.pdf" target="_blank" >🔗paper </a>
+      <a href="https://github.com/cszn/DnCNN" target="_blank" >🔗original</a>
+      <a href="https://pytorch.org/blog/pytorch-0_4_0-migration-guide/" target="_blank" >🔗PyTorch 0.4.0 迁移指南</a>
+      <a href="https://cszn.github.io/" target="_blank" >🔗Page</a>
+    </td> 
+  </tr>
+  <tr>
+    <td>39.</td>
+    <td><a href="https://github.com/cszn/KAIR" target="_blank">KAIR</a> </td>
+    <td>USRNet、DnCNN、FFDNet、SRMD、DPSR、MSRResNet、ESRGAN、BSRGAN、SwinIR、VRT、RVRT、DPIR的训练和测试代码</td>
+    <td>-</td> 
+    <td >
+      <a href="https://cszn.github.io/" target="_blank" >🔗Page</a>
+    </td> 
+  </tr>
 </table>
 
 ### 微信小程序

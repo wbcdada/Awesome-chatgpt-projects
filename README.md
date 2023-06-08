@@ -94,7 +94,7 @@
 <tr>
     <td>2.</td>
     <td><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank"> build-your-own-x</a> </td>
-    <td>编程的分布指南</td>
+    <td>造自己的轮子、编程的分布指南</td>
     <td>3D渲染器、
 增强现实、
 BT客户端、

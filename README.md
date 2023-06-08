@@ -33,10 +33,10 @@
   </tr>
     <tr>
     <td>2.</td>
-    <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md" target="_blank"> Leetcode 题解 </a> </td>
-    <td>200精选题</td>
+    <td><a href="https://github.com/mli/autocut#autocut-%E9%80%9A%E8%BF%87%E5%AD%97%E5%B9%95%E6%9D%A5%E5%89%AA%E5%88%87%E8%A7%86%E9%A2%91" target="_blank"> AutoCut </a> </td>
+    <td>通过字幕来剪切视频</td>
     <td>-</td> 
-    <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md" target="_blank">🔗 </a> </td> 
+    <td><a href="https://github.com/mli/autocut#autocut-%E9%80%9A%E8%BF%87%E5%AD%97%E5%B9%95%E6%9D%A5%E5%89%AA%E5%88%87%E8%A7%86%E9%A2%91" target="_blank">🔗 </a> </td> 
   </tr>
 </table>
 

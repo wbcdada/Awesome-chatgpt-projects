@@ -110,8 +110,8 @@
   <tr>
     <td>2.</td>
     <td><a href="https://github.com/xianfei/SysMocap" target="_blank"> 系统动作捕捉 </a> </td>
-    <td>适用于 VTuber/Live/AR/VR 的跨平台实时视频驱动动作捕捉和 3D 虚拟角色渲染系统</td>
-    <td>-</td> 
+    <td> 实时视频驱动动作捕捉、3D 虚拟角色渲染系统</td>
+    <td>适用于 VTuber/Live/AR/VR</td> 
     <td><a href="https://github.com/xianfei/SysMocap/releases" style="white-space:nowrap">🔗下载 </a> </td> 
   </tr>
 </table>

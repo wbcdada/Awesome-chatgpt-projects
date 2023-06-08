@@ -104,7 +104,7 @@
     <td>1.</td>
     <td><a href="https://github.com/BeyondDimension/SteamTools" target="_blank">Steam++ </a> </td>
     <td>多功能游戏工具箱</td>
-    <td>网络加速、脚本配置、账号切换、库存管理、\n本地令牌、自动挂卡、游戏工具 </td> 
+    <td>网络加速、脚本配置、账号切换、库存管理\n、本地令牌、自动挂卡、游戏工具 </td> 
     <td style="white-space:nowrap"><a href="https://github.com/BeyondDimension/SteamTools/blob/v3.x/doc/download-guide.md" target="_blank" style="width：50px">🔗下载 </a> </td> 
   </tr>
   <tr>

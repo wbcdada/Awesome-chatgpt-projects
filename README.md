@@ -18,6 +18,13 @@
     <td>-</td> 
     <td><a href="https://github.com/xx025/carrot" target="_blank">🔗 </a> </td> 
   </tr>
+  <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/fuergaosi233/wechat-chatgpt" target="_blank"> wechat-chatgpt </a> </td>
+    <td>微信-chatgpt</td>
+    <td>通过wechaty在微信上使用ChatGPT</td> 
+    <td><a href="https://railway.app/template/dMLG70?referralCode=bIYugQ" target="_blank">🔗部署 </a> </td> 
+  </tr>
 </table>
 
 ### 人工智能

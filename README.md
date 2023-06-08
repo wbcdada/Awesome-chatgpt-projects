@@ -163,6 +163,13 @@
 支持限速和防盗链</td> 
     <td><a href="https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN" target="_blank">🔗Page </a> </td> 
   </tr>
+  <tr>
+    <td>4.</td>
+    <td><a href="https://github.com/pure-admin/vue-pure-admin" target="_blank">vue-pure-admin </a> </td>
+    <td>Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）</td>
+    <td>-</td> 
+    <td><a href="https://yiming_chang.gitee.io/vue-pure-admin/#/welcome" target="_blank">🔗demo </a> </td> 
+  </tr>
 </table>
 
 ### Python

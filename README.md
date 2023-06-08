@@ -450,6 +450,19 @@
       <a href="https://cszn.github.io/" target="_blank" >🔗Page</a>
     </td> 
   </tr>
+  <tr>
+    <td>40.</td>
+    <td><a href="https://github.com/Sxela/ArcaneGAN" target="_blank">ArcaneGAN</a> </td>
+    <td>奥术GAN</td>
+    <td>-</td> 
+    <td >
+      <a href="https://huggingface.co/spaces/akhaliq/ArcaneGAN" target="_blank" >🔗v1Demo</a>
+      <a href="https://huggingface.co/spaces/akhaliq/AnimeGANv2" target="_blank" >🔗v2Demo</a>
+      <a href="https://huggingface.co/spaces/TachibanaYoshino/AnimeGANv3" target="_blank" >🔗v3Demo</a>
+      <a href="https://colab.research.google.com/drive/1r1hhciakk5wHaUn1eJk7TP58fV9mjy_W" >🔗imageColab</a>
+      <a href="https://colab.research.google.com/drive/1ohKCiOwZrhM3pza4L93AHAfMkIkJ5YQF" >🔗vedioColab</a>
+    </td> 
+  </tr>
 </table>
 
 ### 微信小程序

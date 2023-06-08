@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td>3.</td>
-    <td><a href="https://github.com/changgyhub/leetcode_101" target="_blank"> LeetCode 101：和你一起起你轻刷题（C++） </a> </td>
+    <td><a href="https://github.com/changgyhub/leetcode_101" target="_blank"> LeetCode 101：和你一起轻松刷题（C++） </a> </td>
     <td>C++刷题图书</td>
     <td></td> 
     <td><a href="https://www.changgy.com/leetcode-101" target="_blank">🔗 </a> </td> 

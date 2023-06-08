@@ -1,1 +1,1 @@
-# Awesome-projects
+# Awesome-chatgpt-projects

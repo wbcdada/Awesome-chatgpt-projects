@@ -105,13 +105,13 @@
     <td><a href="https://github.com/BeyondDimension/SteamTools" target="_blank">Steam++ </a> </td>
     <td>多功能游戏工具箱</td>
     <td>网络加速、脚本配置、账号切换、库存管理、本地令牌、自动挂卡、游戏工具 </td> 
-    <td><a href="https://github.com/BeyondDimension/SteamTools/blob/v3.x/doc/download-guide.md" target="_blank" style="width：50px">🔗下载 </a> </td> 
+    <td style="white-space:nowrap"><a href="https://github.com/BeyondDimension/SteamTools/blob/v3.x/doc/download-guide.md" target="_blank" style="width：50px">🔗下载 </a> </td> 
   </tr>
   <tr>
     <td>2.</td>
     <td><a href="https://github.com/xianfei/SysMocap" target="_blank"> 系统动作捕捉 </a> </td>
     <td> 实时视频驱动动作捕捉、3D 虚拟角色渲染系统</td>
     <td>适用于 VTuber/Live/AR/VR</td> 
-    <td><a href="https://github.com/xianfei/SysMocap/releases" target="_blank" style="white-space:nowrap">🔗下载 </a> </td> 
+    <td style="white-space:nowrap"><a href="https://github.com/xianfei/SysMocap/releases" target="_blank" style="white-space:nowrap">🔗下载 </a> </td> 
   </tr>
 </table>

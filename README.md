@@ -197,8 +197,8 @@
     <td>16.</td>
     <td><a href="https://github.com/PeterL1n/BackgroundMattingV2" target="_blank">BackgroundMattingV2</a> </td>
     <td>实时高分辨率背景抠图</td>
-    <td><a href="https://colab.research.google.com/drive/1cTxFq1YuoJ5QPqaTcnskwlHDolnjBkB9?usp=sharing" target="_blank" >🔗图像抠图 </a>
-      <a href="https://colab.research.google.com/drive/1Y9zWfULc8-DDTSsCH-pX6Utw8skiJG5s?usp=sharing" target="_blank" >🔗视频抠图</a>
+    <td><a href="https://colab.research.google.com/drive/1cTxFq1YuoJ5QPqaTcnskwlHDolnjBkB9?usp=sharing" target="_blank" >图像抠图 </a>、
+      <a href="https://colab.research.google.com/drive/1Y9zWfULc8-DDTSsCH-pX6Utw8skiJG5s?usp=sharing" target="_blank" >视频抠图</a>
     </td> 
     <td ><a href="https://grail.cs.washington.edu/projects/background-matting-v2/#/" target="_blank" >🔗Page </a> </td> 
   </tr>
@@ -268,8 +268,8 @@
   <tr>
     <td>24.</td>
     <td><a href="https://github.com/XuecaiHu/Meta-SR-Pytorch" target="_blank">Meta-SR-Pytorch</a> </td>
-    <td>Meta-SR：用于超分辨率的任意放大网络 (CVPR2019)</td>
-    <td>-</td> 
+    <td>Meta-SR：用于超分辨率的任意放大网络 </td>
+    <td>CVPR2019</td> 
     <td >
       <a href="https://arxiv.org/pdf/1903.00875.pdf" target="_blank" >🔗Paper </a>
   </td> 
@@ -281,6 +281,68 @@
     <td>-</td> 
     <td ><a href="https://github.com/phoenix104104/LapSRN" target="_blank" >🔗original </a>
       <a href="https://arxiv.org/pdf/1704.03915.pdf" target="_blank" >🔗Paper </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>26.</td>
+    <td><a href="https://github.com/oh-my-ocr/text_renderer" target="_blank">text_renderer</a> </td>
+    <td>生成用于训练深度学习 OCR 模型（例如CRNN）的文本图像</td>
+    <td>-</td> 
+    <td ><a href="https://oh-my-ocr.github.io/text_renderer/README.html" target="_blank" >🔗Page </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>27.</td>
+    <td><a href="https://github.com/mrgloom/awesome-semantic-segmentation" target="_blank">awesome-semantic-segmentation</a> </td>
+    <td>语义分割百科全书</td>
+    <td>-</td> 
+    <td ><a href="https://github.com/mrgloom/awesome-semantic-segmentation" target="_blank" >🔗 </a>
+     
+  </td> 
+  </tr>
+  <tr>
+    <td>28.</td>
+    <td><a href="https://github.com/amusi/TensorFlow-From-Zero-To-One" target="_blank">TensorFlow-From-Zero-To-One</a> </td>
+    <td>TensorFlow从0到1学习资料大全，包括入门指南、在线博客、视频教程、书籍推荐和实战项目等</td>
+    <td>-</td> 
+    <td ><a href="https://github.com/amusi/TensorFlow-From-Zero-To-One" target="_blank" >🔗 </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>29.</td>
+    <td><a href="https://github.com/zetane/viewer" target="_blank">viewer</a> </td>
+    <td>机器学习模型和内部张量 3D 可视化器</td>
+    <td>-</td> 
+    <td ><a href="https://docs.zetane.com/" target="_blank" >🔗doc </a>
+      <a href="https://www.youtube.com/watch?v=J3Zd5GR_lQs" target="_blank" >🔗video </a>
+      <a href="https://zetane.com/download" target="_blank" >🔗download </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>30.</td>
+    <td><a href="https://github.com/a312863063/generators-with-stylegan2" target="_blank">generators-with-stylegan2</a> </td>
+    <td>黄种人、网红、明星、超模、萌娃、混血和亚洲美女人脸生成器，用于简单的面部属性编辑</td>
+    <td>StyleGAN2</td> 
+    <td ><a href="https://www.seeprettyface.com/" target="_blank" >🔗Page </a>
+      <a href="https://github.com/a312863063/seeprettyface-face_editor" target="_blank" >🔗人脸属性编辑器 </a>
+      
+  </td> 
+  </tr>
+  <tr>
+    <td>31.</td>
+    <td><a href="https://github.com/andreas128/RePaint" target="_blank">RePaint</a> </td>
+    <td>使用去噪扩散概率模型进行修复,填充缺失的图像部分,内容和形状上重新绘制</td>
+    <td>CVPR 2022</td> 
+    <td ><a href="https://drive.google.com/uc?export=download&id=1oJjablHNTHCI9M0bQRsi1OZJGEgVyw6j&utm_source=RePaint+GDrivePaper" target="_blank" >🔗paper </a>
+  </td> 
+  </tr>
+  <tr>
+    <td>29.</td>
+    <td><a href="https://github.com/zhwesky2010/PaConvert" target="_blank">PaConvert</a> </td>
+    <td>自动将其深度学习代码，转换为PaddlePaddle的代码</td>
+    <td>-</td> 
+    <td ><a href="https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/guides/model_convert/convert_from_pytorch/pytorch_api_mapping_cn.html#pytorch-1-13-paddle-2-4-api" target="_blank" >🔗Api映射表 </a>
+ 
   </td> 
   </tr>
 </table>

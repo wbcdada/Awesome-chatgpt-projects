@@ -136,7 +136,92 @@
     <td>DualStyleGAN、Toonify</td> 
     <td ><a href="https://huggingface.co/spaces/PKUWilliamYang/VToonify" target="_blank" >🔗demo </a> 
       <a href="https://colab.research.google.com/github/williamyang1991/VToonify/blob/master/notebooks/inference_playground.ipynb#scrollTo=ZLdS57vYfo1f" target="_blank" >🔗colab </a>
-      <a href="https://www.mmlab-ntu.com/project/vtoonify/" target="_blank" >🔗Page </a></td> 
+      <a href="https://www.mmlab-ntu.com/project/vtoonify/" target="_blank" >🔗Page </a>
+      <a href="https://arxiv.org/pdf/2209.11224.pdf" target="_blank" >🔗Paper </a></td> 
+  </tr>
+  <tr>
+    <td>11.</td>
+    <td><a href="https://github.com/menyifang/DCT-Net" target="_blank">DCT-Net</a> </td>
+    <td>肖像风格化的域校准翻译；多风格卡通化</td>
+    <td>-</td> 
+    <td ><a href="https://menyifang.github.io/projects/DCTNet/DCTNet.html" target="_blank" >🔗Page </a> 
+      <a href="https://arxiv.org/pdf/2207.02426.pdf" target="_blank" >🔗Paper </a>
+      <a href="https://colab.research.google.com/github/menyifang/DCT-Net/blob/main/notebooks/inference.ipynb" target="_blank" >🔗colab </a></td> 
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
+    <td>《深度学习框架PyTorch：入门与实战》</td>
+    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
+    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>13.</td>
+    <td><a href="https://github.com/CarryHJR/remote-sense-quickstart" target="_blank">remote-sense-quickstart</a> </td>
+    <td>遥感快速入门</td>
+    <td><a href="https://github.com/CarryHJR/remote-sense-quickstart/blob/master/change-detection" target="_blank" >变化检测 </a> 、
+      <a href="https://github.com/CarryHJR/remote-sense-quickstart/tree/master/semantic-segmentation" target="_blank" >语义分割 </a>、
+      <a href="https://github.com/CarryHJR/remote-sense-quickstart/tree/master/scene-classification" target="_blank" >场景分类 </a>
+      <a href="https://github.com/CarryHJR/remote-sense-quickstart/tree/master/view-attention" target="_blank" >特征图可视化场景分类注意力可视化</a>
+    </td> 
+    <td ><a href="http://mplab.sztaki.hu/~bcsaba/test/SZTAKI_AirChange_Benchmark.zip" target="_blank" >🔗换气数据集 </a> 
+      <a href="https://data.airc.aist.go.jp/ABCDdataset/ABCDdataset.zip" target="_blank" >🔗损伤变化数据集 </a>
+      <a href="https://drive.google.com/u/0/uc?id=1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9&export=download" target="_blank" >🔗变化检测数据集 </a>
+      <a href="https://partage.imt.fr/index.php/s/gKRaWgRnLMfwMGo" target="_blank" >🔗Onera 卫星变化检测数据集 </a>
+      <a href="http://weegee.vision.ucmerced.edu/datasets/landuse.html" target="_blank" >🔗 UC Merced 土地利用数据集 </a>
+      <a href="https://captain-whu.github.io/AID/" target="_blank" >🔗AID数据集 </a>
+      <a href="https://partage.imt.fr/index.php/s/gKRaWgRnLMfwMGo" target="_blank" >🔗WHU-RS19 数据集 </a>
+      <a href="https://partage.imt.fr/index.php/s/gKRaWgRnLMfwMGo" target="_blank" >🔗NWPU-RESISC45数据集 </a>
+      <a href="https://drive.google.com/file/d/127lxXYqzO6Bd0yZhvEbgIfz95HaEnr9K/view" target="_blank" >🔗图案网数据集 </a>
+      <a href="https://partage.imt.fr/index.php/s/gKRaWgRnLMfwMGo" target="_blank" >🔗NWPU-RESISC45数据集 </a>
+    </td> 
+  </tr>
+  <tr>
+    <td>14.</td>
+    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
+    <td>《深度学习框架PyTorch：入门与实战》</td>
+    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
+    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>15.</td>
+    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
+    <td>《深度学习框架PyTorch：入门与实战》</td>
+    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
+    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
+    <td>《深度学习框架PyTorch：入门与实战》</td>
+    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
+    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
+    <td>《深度学习框架PyTorch：入门与实战》</td>
+    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
+    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+  </tr><tr>
+    <td>12.</td>
+    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
+    <td>《深度学习框架PyTorch：入门与实战》</td>
+    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
+    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
+    <td>《深度学习框架PyTorch：入门与实战》</td>
+    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
+    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+  </tr><tr>
+    <td>12.</td>
+    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
+    <td>《深度学习框架PyTorch：入门与实战》</td>
+    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
+    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
   </tr>
 </table>
 

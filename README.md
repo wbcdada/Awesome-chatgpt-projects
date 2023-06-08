@@ -91,7 +91,38 @@
     <td>-</td> 
     <td><a href="https://wis.qq.com/weather/common?source=pc&weather_type=observe|index|rise|alarm|air|tips|forecast_24h&province=&city=" target="_blank">🔗 腾讯天气接口</a> </td> 
   </tr>
-
+<tr>
+    <td>2.</td>
+    <td><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank"> build-your-own-x</a> </td>
+    <td>通过从头开始重新创建您最喜欢的技术来掌握编程</td>
+    <td>3D渲染器
+增强现实
+BT客户端
+区块链/加密货币
+机器人
+命令行工具
+数据库
+码头工人
+模拟器/虚拟机
+前端框架/库
+游戏
+混帐
+网络堆栈
+神经网络
+操作系统
+物理引擎
+编程语言
+正则表达式引擎
+搜索引擎
+壳
+模板引擎
+文本编辑器
+视觉识别系统
+体素引擎
+网页浏览器
+网络服务器</td> 
+    <td><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">🔗 </a> </td> 
+  </tr>
 </table>
 
 ### 面试

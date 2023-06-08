@@ -115,6 +115,29 @@
     <td><a href="https://github.com/d2l-ai/d2l-zh" target="_blank">original</a></td> 
     <td ><a href="https://tangshusen.me/Dive-into-DL-PyTorch/#/" target="_blank" >🔗Page </a> <a href="https://docsify.js.org/#/zh-cn/" target="_blank" >🔗GitHub文档生成器 </a> </td> 
   </tr>
+  <tr>
+    <td>8.</td>
+    <td><a href="https://github.com/PaddlePaddle/PaddleGAN" target="_blank">PaddleGAN</a> </td>
+    <td>PaddlePaddle GAN 库</td>
+    <td>-</td> 
+    <td ><a href="https://github.com/PaddlePaddle/PaddleGAN/blob/develop/docs/en_US/tutorials/video_super_resolution.md" target="_blank" >🔗PP-MSVSR </a> </td> 
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td><a href="https://github.com/TingsongYu/PyTorch_Tutorial" target="_blank">PyTorch_Tutorial</a> </td>
+    <td>Pytorch模型训练实践教程</td>
+    <td>-</td> 
+    <td ><a href="https://github.com/TingsongYu/PyTorch_Tutorial/tree/master/Data" target="_blank" >🔗book </a> </td> 
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td><a href="https://github.com/williamyang1991/VToonify" target="_blank">VToonify</a> </td>
+    <td>可控高分辨率人像视频风格迁移</td>
+    <td>DualStyleGAN、Toonify</td> 
+    <td ><a href="https://huggingface.co/spaces/PKUWilliamYang/VToonify" target="_blank" >🔗demo </a> 
+      <a href="https://colab.research.google.com/github/williamyang1991/VToonify/blob/master/notebooks/inference_playground.ipynb#scrollTo=ZLdS57vYfo1f" target="_blank" >🔗colab </a>
+      <a href="https://www.mmlab-ntu.com/project/vtoonify/" target="_blank" >🔗Page </a></td> 
+  </tr>
 </table>
 
 ### 微信小程序
@@ -148,6 +171,27 @@
     <td>微信小程序开源项目库汇总</td>
     <td>-</td> 
     <td><a href="https://github.com/opendigg/awesome-github-wechat-weapp" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://github.com/Gwokhov/chronus" target="_blank"> chronus </a> </td>
+    <td>一款能帮助管理生活目标的微信小程序</td>
+    <td>-</td> 
+    <td><a href="https://github.com/Gwokhov/chronus" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td><a href="https://github.com/TaleLin/lin-ui" target="_blank"> lin-ui </a> </td>
+    <td>简洁、易用、灵魂的微信小程序组库</td>
+    <td>-</td> 
+    <td><a href="https://doc.mini.talelin.com/start/" target="_blank">🔗doc </a> </td> 
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td><a href="https://github.com/justjavac/awesome-wechat-weapp#demo" target="_blank"> awesome-wechat-weapp </a> </td>
+    <td>微信小程序开发资源汇</td>
+    <td>-</td> 
+    <td><a href="https://github.com/justjavac/awesome-wechat-weapp#demo" target="_blank">🔗 </a> </td> 
   </tr>
 </table>
 

@@ -40,6 +40,26 @@
   </tr>
 </table>
 
+### 微信小程序
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/oubingbing/school_wechat" target="_blank">校园小情书前端</a> </td>
+    <td>校园小情书</td>
+    <td>表白墙、树洞、校园论坛</td> 
+    <td><a href="https://github.com/oubingbing/wechatAlliance" target="_blank">🔗校园小情书后端 </a> </td> 
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/niclin/nic_meta/blob/master/contracts/nic_meta_nft.sol" target="_blank"> NFT ERC-721 Basic Example </a> </td>
+    <td>NFT简单方案</td>
+    <td>-</td> 
+    <td><a href="https://github.com/niclin/nic_meta/blob/master/contracts/nic_meta_nft.sol" target="_blank">🔗 </a> </td> 
+  </tr>
+</table>
+
 ### 前端
 
 <table>
@@ -51,13 +71,7 @@
     <td>-</td> 
     <td><a href="https://d2-projects.github.io/d2-admin/#/index" target="_blank">🔗 </a> </td> 
   </tr>
-    <tr>
-    <td>2.</td>
-    <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md" target="_blank"> Leetcode 题解 </a> </td>
-    <td>200精选题</td>
-    <td>-</td> 
-    <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md" target="_blank">🔗 </a> </td> 
-  </tr>
+
 </table>
 
 ### Web3.0

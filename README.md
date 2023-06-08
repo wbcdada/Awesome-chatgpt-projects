@@ -45,6 +45,13 @@
     <td>-</td> 
     <td><a href="https://github.com/mli/autocut#autocut-%E9%80%9A%E8%BF%87%E5%AD%97%E5%B9%95%E6%9D%A5%E5%89%AA%E5%88%87%E8%A7%86%E9%A2%91" target="_blank">🔗 </a> </td> 
   </tr>
+  <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/algorithm-visualizer/algorithm-visualizer" target="_blank">algorithm-visualizer </a> </td>
+    <td>代码可视化算法的交互式在线平台</td>
+    <td>-</td> 
+    <td><a href="https://algorithm-visualizer.org/" target="_blank">🔗官方网站 </a> </td> 
+  </tr>
 </table>
 
 ### 微信小程序

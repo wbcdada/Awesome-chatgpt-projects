@@ -23,7 +23,35 @@
     <td><a href="https://github.com/fuergaosi233/wechat-chatgpt" target="_blank"> wechat-chatgpt </a> </td>
     <td>微信-chatgpt</td>
     <td>通过wechaty在微信上使用ChatGPT</td> 
-    <td><a href="https://railway.app/template/dMLG70?referralCode=bIYugQ" target="_blank">🔗部署 </a> </td> 
+    <td><a href="https://railway.app/template/dMLG70?referralCode=bIYugQ" target="_blank">🔗deploy </a> </td> 
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td><a href="https://github.com/Niek/chatgpt-web" target="_blank"> chatgpt-web </a> </td>
+    <td>ChatGPT单页 Web 界面</td>
+    <td>-</td> 
+    <td><a href="https://niek.github.io/chatgpt-web/" target="_blank">🔗web </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://github.com/Chanzhaoyu/chatgpt-web" target="_blank"> chatgpt-web </a> </td>
+    <td>用 Express 和 Vue3 搭建的 ChatGPT 演示网页</td>
+    <td><a href="https://github.com/Chanzhaoyu/chatgpt-web-plus" target="_blank"> chatgpt-web-plus </a> </td> 
+    <td><a href="https://railway.app/new/template/yytmgc" target="_blank">🔗deploy </a> </td> 
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td><a href="https://github.com/Chanzhaoyu/chatgpt-web" target="_blank"> RecurrentGPT </a> </td>
+    <td>写小说的GPT</td>
+    <td><a href="https://www.youtube.com/watch?v=rMnw3ljCibc" target="_blank"> Video </a> </td> 
+    <td><a href="http://server.alanshaw.cloud:8003/" target="_blank">🔗demo1 </a> <a href="http://server.alanshaw.cloud:8001/" target="_blank">🔗demo2 </a></td> 
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td><a href="https://github.com/SevaSk/ecoute" target="_blank">ecoute</a> </td>
+    <td>对话的实时转录说出,面试神器</td>
+    <td>- </td> 
+    <td ><a href="https://github.com/SevaSk/ecoute" target="_blank" >🔗 </a> </td> 
   </tr>
 </table>
 
@@ -52,6 +80,27 @@
     <td>-</td> 
     <td><a href="https://algorithm-visualizer.org/" target="_blank">🔗官方网站 </a> </td> 
   </tr>
+  <tr>
+    <td>4.</td>
+    <td><a href="https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art" target="_blank">algorithm-visualizer </a> </td>
+    <td>流行和可重现的单图像去噪作品集</td>
+    <td>有可用的代码，并且可重现的结果展示了最先进的性能</td> 
+    <td><a href="https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://github.com/ddlee-cn/MuLUT" target="_blank">MuLUT </a> </td>
+    <td>协作多个查找表以实现高效图像超分辨率</td>
+    <td><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf" target="_blank">ECCV </a> </td> 
+    <td><a href="https://mulut.pages.dev/" target="_blank">🔗Page </a> </td> 
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td><a href="https://github.com/datawhalechina/vced" target="_blank">vced</a> </td>
+    <td>通过文字描述来自动识别视频中相符的片段进行视频剪辑</td>
+    <td>Jina生态，clip跨模态搜索与向量检索，streamlit</td> 
+    <td ><a href="https://linklearner.com/#/" target="_blank" >🔗Page </a> </td> 
+  </tr>
 </table>
 
 ### 微信小程序
@@ -60,8 +109,8 @@
 
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/oubingbing/school_wechat" target="_blank">校园小情书前端</a> </td>
-    <td>校园小情书</td>
+    <td><a href="https://github.com/oubingbing/school_wechat" target="_blank">校园小情书</a> </td>
+    <td>校园小情书前端</td>
     <td>表白墙、树洞、校园论坛</td> 
     <td><a href="https://github.com/oubingbing/wechatAlliance" target="_blank">🔗校园小情书后端 </a> </td> 
   </tr>
@@ -87,6 +136,41 @@
   </tr>
 
 </table>
+
+### Python
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/Python3WebSpider/Python3WebSpider" target="_blank">Python3WebSpider </a> </td>
+    <td>Python3 网络爬虫开发实战源码</td>
+    <td>-</td> 
+    <td><a href="https://github.com/Python3WebSpider/Python3WebSpider" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/pynecone-io/pynecone" target="_blank">pynecone </a> </td>
+    <td>纯 Python 中的高性能、可自定义的 Web 应用程序</td>
+    <td>-</td> 
+    <td><a href="https://github.com/pynecone-io" target="_blank">🔗 </a> </td> 
+  </tr>
+</table>
+
+### Linux
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/gatieme/LDD-LinuxDeviceDrivers" target="_blank">LDD-LinuxDeviceDrivers </a> </td>
+    <td>Linux内核与设备驱动程序学习笔记</td>
+    <td>-</td> 
+    <td><a href="https://github.com/gatieme/LDD-LinuxDeviceDrivers" target="_blank">🔗 </a> </td> 
+  </tr>
+
+</table>
+
 
 ### Web3.0
 
@@ -185,7 +269,13 @@ BT客户端、
     <td></td> 
     <td><a href="https://www.overleaf.com/latex/templates/bill-ryans-elegant-latex-resume/xcqmhktmzmsw" target="_blank">🔗 </a> </td> 
   </tr>
-  
+  <tr>
+    <td>5.</td>
+    <td><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">free-programming-books</a> </td>
+    <td>免费提供的编程书籍</td>
+    <td></td> 
+    <td><a href="https://ebookfoundation.github.io/free-programming-books-search/" target="_blank">🔗搜索 </a> </td> 
+  </tr>
 </table>
 
 ### 游戏
@@ -206,4 +296,18 @@ BT客户端、
     <td>适用于 VTuber/Live/AR/VR</td> 
     <td style="white-space:nowrap"><a href="https://github.com/xianfei/SysMocap/releases" target="_blank" style="white-space:nowrap">🔗下载 </a> </td> 
   </tr>
+</table>
+
+### Tools
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/itgoyo/ffmpeg-push" target="_blank">ffmpeg-push</a> </td>
+    <td>24小时推流直播</td>
+    <td>- </td> 
+    <td ><a href="https://github.com/itgoyo/ffmpeg-push" target="_blank" >🔗 </a> </td> 
+  </tr>
+
 </table>

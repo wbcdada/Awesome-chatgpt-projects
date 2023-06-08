@@ -5,18 +5,18 @@
 
 <table style="width:100%">
 
-  <tr >
+  <tr>
     <td>1.</td>
     <td><a href="https://poe.com/" target="_blank"> Poe.com </a> </td>
     <td>免费聊天</td>
-    <td>&nbsp;</td>
+    <td>-</td>
     <td><a href="https://poe.com/" target="_blank">🔗 </a> </td> 
   </tr>
-    <tr>
+  <tr>
     <td>2.</td>
     <td><a href="https://github.com/xx025/carrot" target="_blank"> ChatGPT Site List </a> </td>
     <td>ChatGPT镜像站点</td>
-    <td>&nbsp;</td> 
+    <td>-</td> 
     <td><a href="https://github.com/xx025/carrot" target="_blank">🔗 </a> </td> 
   </tr>
 </table>

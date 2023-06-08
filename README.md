@@ -53,6 +53,13 @@
     <td>- </td> 
     <td ><a href="https://github.com/SevaSk/ecoute" target="_blank" >🔗 </a> </td> 
   </tr>
+  <tr>
+    <td>8.</td>
+    <td><a href="https://github.com/FlowiseAI/Flowise" target="_blank">Flowise</a> </td>
+    <td>LangchainJS 用户界面</td>
+    <td>拖放 UI 以使用 LangchainJS 构建自定义的 LLM 流程</td> 
+    <td ><a href="https://railway.app/template/YK7J0v" target="_blank" >🔗railway </a><a href="https://railway.app/template/YK7J0v" target="_blank" >🔗render </a> </td> 
+  </tr>
 </table>
 
 ### 人工智能
@@ -134,7 +141,28 @@
     <td>-</td> 
     <td><a href="https://d2-projects.github.io/d2-admin/#/index" target="_blank">🔗 </a> </td> 
   </tr>
-
+<tr>
+    <td>2.</td>
+    <td><a href="https://github.com/vuejs/vitepress" target="_blank">vitepress </a> </td>
+    <td>Vite & Vue 驱动的静态站点生成器</td>
+    <td>-</td> 
+    <td><a href="https://vitepress.dev/" target="_blank">🔗doc </a> </td> 
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/digitalocean/nginxconfig.io" target="_blank">nginxconfig </a> </td>
+    <td>nginx 配置生成器</td>
+    <td>自动生成SSL证书和密钥
+集成Let's Encrypt自动化证书<br>
+支持多个域名和子域名
+自动重定向HTTP到HTTPS<br>
+支持HTTP/2和SPDY协议
+支持反向代理和负载均衡<br>
+支持缓存和压缩
+支持HTTP身份验证<br>
+支持限速和防盗链</td> 
+    <td><a href="https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN" target="_blank">🔗Page </a> </td> 
+  </tr>
 </table>
 
 ### Python
@@ -309,5 +337,11 @@ BT客户端、
     <td>- </td> 
     <td ><a href="https://github.com/itgoyo/ffmpeg-push" target="_blank" >🔗 </a> </td> 
   </tr>
-
+<tr>
+    <td>2.</td>
+    <td><a href="https://github.com/luyi404/TrashVideoGenerator" target="_blank">TrashVideoGenerator</a> </td>
+    <td>营销号视频生成器</td>
+    <td>百度开发者API</td> 
+    <td ><a href="https://github.com/luyi404/TrashVideoGenerator" target="_blank" >🔗 </a> </td> 
+  </tr>
 </table>

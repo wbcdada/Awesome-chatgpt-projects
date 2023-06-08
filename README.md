@@ -161,7 +161,7 @@
     <td>遥感快速入门</td>
     <td><a href="https://github.com/CarryHJR/remote-sense-quickstart/blob/master/change-detection" target="_blank" >变化检测 </a> 、
       <a href="https://github.com/CarryHJR/remote-sense-quickstart/tree/master/semantic-segmentation" target="_blank" >语义分割 </a>、
-      <a href="https://github.com/CarryHJR/remote-sense-quickstart/tree/master/scene-classification" target="_blank" >场景分类 </a>
+      <a href="https://github.com/CarryHJR/remote-sense-quickstart/tree/master/scene-classification" target="_blank" >场景分类 </a>、
       <a href="https://github.com/CarryHJR/remote-sense-quickstart/tree/master/view-attention" target="_blank" >特征图可视化场景分类注意力可视化</a>
     </td> 
     <td ><a href="http://mplab.sztaki.hu/~bcsaba/test/SZTAKI_AirChange_Benchmark.zip" target="_blank" >🔗换气数据集 </a> 
@@ -178,24 +178,29 @@
   </tr>
   <tr>
     <td>14.</td>
-    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
-    <td>《深度学习框架PyTorch：入门与实战》</td>
-    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
-    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+    <td><a href="https://github.com/facebookresearch/pifuhd" target="_blank">PIFuHD</a> </td>
+    <td>用于高分辨率 3D 人体数字化的多级像素对齐隐式函数</td>
+    <td>-</td> 
+    <td ><a href="https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt" target="_blank" >🔗demo </a>
+      <a href="https://arxiv.org/pdf/2004.00452.pdf" target="_blank" >🔗paper </a>
+      <a href="https://shunsukesaito.github.io/PIFuHD/" target="_blank" >🔗Page </a>
+    </td> 
   </tr>
   <tr>
     <td>15.</td>
-    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
-    <td>《深度学习框架PyTorch：入门与实战》</td>
-    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
-    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+    <td><a href="https://github.com/X-Lucifer/AI-Lossless-Zoomer" target="_blank">AI-Lossless-Zoomer</a> </td>
+    <td>AI无损放大工具</td>
+    <td>Real-ESRGAN</td> 
+    <td ><a href="https://github.com/X-Lucifer/AI-Lossless-Zoomer/releases" target="_blank" >🔗Download </a> </td> 
   </tr>
   <tr>
     <td>12.</td>
-    <td><a href="https://github.com/chenyuntc/pytorch-book" target="_blank">pytorch-book</a> </td>
-    <td>《深度学习框架PyTorch：入门与实战》</td>
-    <td>神经对话、神经风格、诗歌写作、动漫生成</td> 
-    <td ><a href="https://github.com/chenyuntc/pytorch-book" target="_blank" >🔗 </a> </td> 
+    <td><a href="https://github.com/PeterL1n/BackgroundMattingV2" target="_blank">BackgroundMattingV2</a> </td>
+    <td>实时高分辨率背景抠图</td>
+    <td><a href="https://colab.research.google.com/drive/1cTxFq1YuoJ5QPqaTcnskwlHDolnjBkB9?usp=sharing" target="_blank" >🔗图像抠图 </a>
+      <a href="https://colab.research.google.com/drive/1Y9zWfULc8-DDTSsCH-pX6Utw8skiJG5s?usp=sharing" target="_blank" >🔗视频抠图</a>
+    </td> 
+    <td ><a href="https://grail.cs.washington.edu/projects/background-matting-v2/#/" target="_blank" >🔗Page </a> </td> 
   </tr>
   <tr>
     <td>12.</td>

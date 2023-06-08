@@ -68,7 +68,7 @@
 
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/linyiqun/DataMiningAlgorithm#/" target="_blank">数据挖掘算法 </a> </td>
+    <td><a href="https://github.com/linyiqun/DataMiningAlgorithm#/" target="_blank">DataMiningAlgorithm </a> </td>
     <td>数据挖掘18大算法实践以及其他相关经典DM算法</td>
     <td>-</td> 
     <td><a href="https://github.com/linyiqun/DataMiningAlgorithm#/" target="_blank">🔗 </a> </td> 
@@ -116,8 +116,8 @@
 
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/oubingbing/school_wechat" target="_blank">校园小情书</a> </td>
-    <td>校园小情书前端</td>
+    <td><a href="https://github.com/oubingbing/school_wechat" target="_blank">school_wechat</a> </td>
+    <td>校园情书小程序前端</td>
     <td>表白墙、树洞、校园论坛</td> 
     <td><a href="https://github.com/oubingbing/wechatAlliance" target="_blank">🔗校园小情书后端 </a> </td> 
   </tr>
@@ -152,14 +152,14 @@
     <td>3.</td>
     <td><a href="https://github.com/digitalocean/nginxconfig.io" target="_blank">nginxconfig </a> </td>
     <td>nginx 配置生成器</td>
-    <td>自动生成SSL证书和密钥
-集成Let's Encrypt自动化证书<br>
-支持多个域名和子域名
-自动重定向HTTP到HTTPS<br>
-支持HTTP/2和SPDY协议
-支持反向代理和负载均衡<br>
-支持缓存和压缩
-支持HTTP身份验证<br>
+    <td>自动生成SSL证书和密钥、
+集成Let's Encrypt自动化证书、<br>
+支持多个域名和子域名、
+自动重定向HTTP到HTTPS、<br>
+支持HTTP/2和SPDY协议、
+支持反向代理和负载均衡、<br>
+支持缓存和压缩、
+支持HTTP身份验证、<br>
 支持限速和防盗链</td> 
     <td><a href="https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN" target="_blank">🔗Page </a> </td> 
   </tr>
@@ -226,9 +226,9 @@
 
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/junwuyi/GoodWeather#/" target="_blank">Andriod 天气预报 App </a> </td>
-    <td>Java</td>
-    <td>-</td> 
+    <td><a href="https://github.com/junwuyi/GoodWeather#/" target="_blank">GoodWeather</a> </td>
+    <td>Andriod 天气预报 App</td>
+    <td>Java</td> 
     <td><a href="https://wis.qq.com/weather/common?source=pc&weather_type=observe|index|rise|alarm|air|tips|forecast_24h&province=&city=" target="_blank">🔗 腾讯天气接口</a> </td> 
   </tr>
 <tr>
@@ -292,8 +292,8 @@ BT客户端、
   </tr>
   <tr>
     <td>4.</td>
-    <td><a href="https://github.com/billryan/resume" target="_blank"> LaTeX 简历模板 </a> </td>
-    <td>简历模板</td>
+    <td><a href="https://github.com/billryan/resume" target="_blank">  resume </a> </td>
+    <td>LaTeX简历模板</td>
     <td></td> 
     <td><a href="https://www.overleaf.com/latex/templates/bill-ryans-elegant-latex-resume/xcqmhktmzmsw" target="_blank">🔗 </a> </td> 
   </tr>
@@ -319,7 +319,7 @@ BT客户端、
   </tr>
   <tr>
     <td>2.</td>
-    <td><a href="https://github.com/xianfei/SysMocap" target="_blank"> 系统动作捕捉 </a> </td>
+    <td><a href="https://github.com/xianfei/SysMocap" target="_blank"> SysMocap </a> </td>
     <td> 实时视频驱动动作捕捉、3D 虚拟角色渲染系统</td>
     <td>适用于 VTuber/Live/AR/VR</td> 
     <td style="white-space:nowrap"><a href="https://github.com/xianfei/SysMocap/releases" target="_blank" style="white-space:nowrap">🔗下载 </a> </td> 

@@ -20,6 +20,26 @@
   </tr>
 </table>
 
+### 人工智能
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><a href="https://github.com/linyiqun/DataMiningAlgorithm#/" target="_blank">数据挖掘算法 </a> </td>
+    <td>数据挖掘18大算法实践以及其他相关经典DM算法</td>
+    <td>-</td> 
+    <td><a href="https://github.com/linyiqun/DataMiningAlgorithm#/" target="_blank">🔗 </a> </td> 
+  </tr>
+    <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md" target="_blank"> Leetcode 题解 </a> </td>
+    <td>200精选题</td>
+    <td>-</td> 
+    <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md" target="_blank">🔗 </a> </td> 
+  </tr>
+</table>
+
 ### 前端
 
 <table>

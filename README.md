@@ -156,12 +156,32 @@
   </tr>
 <tr>
     <td>19.</td>
-    <td><a href="AutoGPTQ：https://github.com/PanQiWei/AutoGPTQ" target="_blank">AutoGPTQ</a> </td>
+    <td><a href="https://github.com/PanQiWei/AutoGPTQ" target="_blank">AutoGPTQ</a> </td>
     <td>基于 GPTQ 算法的易于使用的 LLM 量化包</td>
     <td>-</td> 
     <td >
       <a href="https://zhuanlan.zhihu.com/p/616969812" target="_blank" >🔗intro </a>
 <a href="https://readpaper.feishu.cn/docx/OPP2dTuXAoaO0oxWhQAcC05Wnpc" target="_blank" >🔗paper </a>
+    </td> 
+  </tr>
+<tr>
+    <td>20.</td>
+    <td><a href="https://github.com/c121914yu/FastGPT" target="_blank">FastGPT</a> </td>
+    <td>使用 OpenAI API 快速构建 AI 知识库的平台</td>
+    <td>-</td> 
+    <td >
+      <a href="https://ai.fastgpt.run/" target="_blank" >🔗demo1 </a>
+<a href="https://fastgpt.run/" target="_blank" >🔗demo2 </a>
+    </td> 
+  </tr>
+<tr>
+    <td>21.</td>
+    <td><a href="https://github.com/reworkd/AgentGPT" target="_blank">AgentGPT</a> </td>
+    <td>浏览器中组装、配置和部署自主 AI 代理</td>
+    <td>-</td> 
+    <td >
+      <a href="https://agentgpt.reworkd.ai/zh" target="_blank" >🔗website </a>
+<a href="https://docs.reworkd.ai/" target="_blank" >🔗doc </a>
     </td> 
   </tr>
 </table>

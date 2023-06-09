@@ -4,8 +4,8 @@
   <img src="./docs/1.png" alt="cover" width="100%">
 </div>
 <p align="center">
-	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/d2-projects/d2-admin.svg"></a>
-	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/network/members" target="_blank"><img src="https://img.shields.io/github/forks/d2-projects/d2-admin.svg"></a>
+	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/wbcdada/Awesome-chatgpt-projects.svg"></a>
+	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/network/members" target="_blank"><img src="https://img.shields.io/github/forks/wbcdada/Awesome-chatgpt-projects.svg"></a>
 </p>
 <table style="width:100%">
   <tr>

@@ -382,19 +382,12 @@
   </tr>
   <tr>
     <td>28.</td>
-    <td><a href="https://copyai.cn/" target="_blank">copyai</a> </td>
-    <td>AI 营销内容创作</td>
+    <td><a href="https://www.myheritage.co.kr/deep-nostalgia" target="_blank">myheritage</a> </td>
+    <td>让老照片动起来</td>
     <td>-</td>
-    <td><a href="https://copyai.cn/" target="_blank">🔗 </a> </td> 
-  </tr>https://xiezuocat.com/
-  <tr>
-    <td>29.</td>
-    <td><a href="https://chuangyi.taobao.com/pages/aiCopy" target="_blank">aiCopy</a> </td>
-    <td>阿里妈妈·创意中心</td>
-    <td>-</td>
-    <td><a href="https://chuangyi.taobao.com/pages/aiCopy" target="_blank">🔗 </a> </td> 
+    <td><a href="https://www.myheritage.co.kr/deep-nostalgia" target="_blank">🔗 </a> </td> 
   </tr>
-</table>
+
 
 ### 人工智能
 
@@ -825,6 +818,15 @@
       <a href="https://selfie2anime.com/" target="_blank" >🔗</a>
     </td> 
   </tr>
+  <tr>
+    <td>48.</td>
+    <td><a href="https://github.com/sfvsfv/ComputerStudent" target="_blank">ComputerStudent</a> </td>
+    <td>计算机专业系统性学习资料（python,c,c++,计算机组成，计算机网络，编译原理，电路，谷歌插件，爬虫）</td>
+    <td>-</td> 
+    <td >
+      <a href="https://github.com/sfvsfv/ComputerStudent" target="_blank" >🔗</a>
+    </td> 
+  </tr>
 </table>
 
 ### 微信小程序
@@ -941,6 +943,13 @@
     <td>纯 Python 中的高性能、可自定义的 Web 应用程序</td>
     <td>-</td> 
     <td><a href="https://pynecone.io/docs/gallery" target="_blank">🔗gallery </a> </td> 
+  </tr>
+	  <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/jackfrued/Python-100-Days#/" target="_blank">Python-100-Days</a> </td>
+    <td>Python - 100天从新手到大师</td>
+    <td>-</td> 
+    <td><a href="https://github.com/jackfrued/Python-100-Days#/" target="_blank">🔗gallery </a> </td> 
   </tr>
 </table>
 

@@ -417,7 +417,7 @@
   </tr>
   <tr>
     <td>4.</td>
-    <td><a href="https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art" target="_blank">algorithm-visualizer </a> </td>
+    <td><a href="https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art" target="_blank">image-denoising-state-of-the-art </a> </td>
     <td>流行和可重现的单图像去噪作品集</td>
     <td>有可用的代码，并且可重现的结果展示了最先进的性能</td> 
     <td><a href="https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art" target="_blank">🔗 </a> </td> 

@@ -758,8 +758,8 @@ BT客户端、
 		<em>整理不易，给点小小的赞助~</em>
 	</p>
 	<img src="./docs/wx.jpg" alt="Sample"  width="200" height="300">
-	<img src="./docs/wxpay.jpg" alt="Sample"  width="200" height="300">
-	<img src="./docs/alipay.jpg" alt="Sample"  width="200" height="300">
+	<img src="./docs/wxpay.jpg" alt="Sample"  width="300" height="300">
+	<img src="./docs/alipay.jpg" alt="Sample"  width="300" height="300">
 </div>
 
 <br/><br/><br/>

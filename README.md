@@ -1,9 +1,9 @@
 # Awesome-chatgpt-projects
 ### ChatGPT
-![cover](./docs/1.png)
 <div align="center">
   <img src="./docs/1.png" alt="cover" width="100%">
 </div>
+[![GitHub forks](https://img.shields.io/github/forks/wbcbaba/repo.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/wbcbaba/repo/fork)
 
 <table style="width:100%">
   <tr>

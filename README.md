@@ -184,6 +184,18 @@
 <a href="https://docs.reworkd.ai/" target="_blank" >🔗doc </a>
     </td> 
   </tr>
+<tr>
+    <td>22.</td>
+    <td><a href="https://github.com/Significant-Gravitas/Auto-GPT" target="_blank">Auto-GPT</a> </td>
+    <td>使 GPT-4 完全自主的实验</td>
+    <td>-</td> 
+    <td >
+      <a href="https://news.agpt.co/" target="_blank" >🔗Page </a>
+<a href="https://app.pinecone.io/" target="_blank" >🔗api1 </a>
+	    <a href="https://platform.openai.com/account/api-keys" target="_blank" >🔗api2 </a>
+	    <a href="https://console.cloud.google.com/" target="_blank" >🔗api3 </a>
+    </td> 
+  </tr>
 </table>
 
 ### 人工智能

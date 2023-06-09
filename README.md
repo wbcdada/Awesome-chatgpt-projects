@@ -380,6 +380,20 @@
     <td>-</td>
     <td><a href="https://app.wordtune.com/editor/" target="_blank">🔗 </a> </td> 
   </tr>
+  <tr>
+    <td>28.</td>
+    <td><a href="https://copyai.cn/" target="_blank">copyai</a> </td>
+    <td>AI 营销内容创作</td>
+    <td>-</td>
+    <td><a href="https://copyai.cn/" target="_blank">🔗 </a> </td> 
+  </tr>https://xiezuocat.com/
+  <tr>
+    <td>29.</td>
+    <td><a href="https://chuangyi.taobao.com/pages/aiCopy" target="_blank">aiCopy</a> </td>
+    <td>阿里妈妈·创意中心</td>
+    <td>-</td>
+    <td><a href="https://chuangyi.taobao.com/pages/aiCopy" target="_blank">🔗 </a> </td> 
+  </tr>
 </table>
 
 ### 人工智能
@@ -536,7 +550,8 @@
     <td><a href="https://github.com/TencentARC/GFPGAN" target="_blank">GFPGAN</a> </td>
     <td>真实世界人脸修复算法</td>
     <td>StyleGAN2</td> 
-    <td ><a href="https://replicate.com/tencentarc/gfpgan" target="_blank" >🔗demo </a> 
+    <td ><a href="https://replicate.com/tencentarc/gfpgan" target="_blank" >🔗demo1 </a> 
+	<a href="https://huggingface.co/spaces/akhaliq/GFPGAN" target="_blank" >🔗demo2 </a>
       <a href="https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo" target="_blank" >🔗colab </a>
       <a href="https://xinntao.github.io/projects/gfpgan" target="_blank" >🔗Page </a>
       <a href="https://arxiv.org/pdf/2101.04061.pdf" target="_blank" >🔗paper </a>
@@ -754,6 +769,35 @@
       <a href="https://www.bilibili.com/video/BV1Ua411P7oe/?vd_source=363bb97ace02c5758c523d6592fcc513" target="_blank" >🔗vedio</a>
     </td> 
   </tr>
+  <tr>
+    <td>42.</td>
+    <td><a href="https://paperswithcode.com/" target="_blank">paperswithcode</a> </td>
+    <td>找论文源码</td>
+    <td>-</td> 
+    <td >
+      <a href="https://paperswithcode.com/" target="_blank" >🔗</a>
+    </td> 
+  </tr>
+  <tr>
+    <td>43.</td>
+    <td><a href="https://github.com/sczhou/CodeFormer" target="_blank">CodeFormer</a> </td>
+    <td>找论文源码</td>
+    <td>-</td> 
+    <td >
+      <a href="https://shangchenzhou.com/projects/CodeFormer/" target="_blank" >🔗Page</a>
+<a href="https://arxiv.org/pdf/2206.11253.pdf" target="_blank" >🔗Paper</a> 
+	    <a href="https://huggingface.co/spaces/sczhou/CodeFormer " target="_blank" >🔗demo</a>
+    </td> 
+  </tr>
+  <tr>
+    <td>44.</td>
+    <td><a href="https://www.aminer.cn/" target="_blank">aminer</a> </td>
+    <td>AI论文热点搜索，科研情报</td>
+    <td>-</td> 
+    <td >
+      <a href="https://www.aminer.cn/" target="_blank" >🔗</a>
+    </td> 
+  </tr>
 </table>
 
 ### 微信小程序
@@ -801,6 +845,13 @@
     <td>微信小程序开发资源汇</td>
     <td>-</td> 
     <td><a href="https://github.com/justjavac/awesome-wechat-weapp#demo" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td><a href="https://github.com/youzan/vant-weapp" target="_blank"> vant-weapp </a> </td>
+    <td>轻量、可靠的小程序 UI 组合库</td>
+    <td>-</td> 
+    <td><a href="https://vant-ui.github.io/vant-weapp/#/quickstart" target="_blank">🔗doc </a> </td> 
   </tr>
 </table>
 

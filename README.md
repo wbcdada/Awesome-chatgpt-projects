@@ -127,6 +127,14 @@
       <a href="https://bing.vcanbb.top/web/#/" target="_blank" >🔗website </a>
     </td> 
   </tr>
+   <tr>
+    <td>16.</td>
+    <td><a href="https://github.com/zilliztech/GPTCache" target="_blank">GPTCache</a> </td>
+    <td>为 LLM 查询创建语义缓存的库</td>
+    <td>与 LangChain 和 llama_index 完全集成</td> 
+    <td >
+      <a href="https://github.com/zilliztech/GPTCache" target="_blank" >🔗 </a>
+    </td> 
 </table>
 
 ### 人工智能

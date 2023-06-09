@@ -1,5 +1,5 @@
 # Awesome-chatgpt-projects
-### ChatGPT
+
 <div align="center">
   <img src="./docs/1.png" alt="cover" width="100%">
 </div>
@@ -7,6 +7,9 @@
 	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/wbcdada/Awesome-chatgpt-projects.svg"></a>
 	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/network/members" target="_blank"><img src="https://img.shields.io/github/forks/wbcdada/Awesome-chatgpt-projects.svg"></a>
 </p>
+
+### ChatGPT
+
 <table style="width:100%">
   <tr>
     <td>1.</td>

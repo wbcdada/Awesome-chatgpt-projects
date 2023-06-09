@@ -140,7 +140,7 @@
     <td>17.</td>
     <td><a href="https://github.com/InterestingDarkness/ChatSydney" target="_blank">ChatSydney</a> </td>
     <td>EdgeGPT的GUI</td>
-    <td>-</td> 
+    <td>无需魔法使用gpt4</td> 
     <td >
       <a href="https://github.com/InterestingDarkness/ChatSydney" target="_blank" >🔗 </a>
     </td> 

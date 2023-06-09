@@ -1,6 +1,6 @@
 # Awesome-chatgpt-projects
 ### ChatGPT
-
+![cover](./docs/1.png)
 
 
 <table style="width:100%">

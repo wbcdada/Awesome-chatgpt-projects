@@ -136,13 +136,22 @@
       <a href="https://github.com/zilliztech/GPTCache" target="_blank" >🔗 </a>
     </td> 
 </tr>
-	<tr>
+<tr>
     <td>17.</td>
     <td><a href="https://github.com/InterestingDarkness/ChatSydney" target="_blank">ChatSydney</a> </td>
     <td>EdgeGPT的GUI</td>
     <td>无需魔法使用gpt4</td> 
     <td >
       <a href="https://github.com/InterestingDarkness/ChatSydney" target="_blank" >🔗 </a>
+    </td> 
+  </tr>
+<tr>
+    <td>18.</td>
+    <td><a href="https://github.com/mayooear/gpt4-pdf-chatbot-langchain" target="_blank">gpt4-pdf-chatbot-langchain</a> </td>
+    <td>用于大型 PDF 文档的 GPT4 和 LangChain Chatbot</td>
+    <td>-</td> 
+    <td >
+      <a href="https://www.youtube.com/watch?v=ih9PBGVVOO4" target="_blank" >🔗vedio </a>
     </td> 
   </tr>
 </table>

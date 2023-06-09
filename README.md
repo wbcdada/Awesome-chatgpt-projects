@@ -1,7 +1,15 @@
 # Awesome-chatgpt-projects
+
+<div align="center">
+  <img src="./docs/1.png" alt="cover" width="100%">
+</div>
+<p align="center">
+	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/releases" target="_blank"><img src="https://img.shields.io/github/downloads/wbcdada/Awesome-chatgpt-projects/total.svg"></a>
+	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/wbcdada/Awesome-chatgpt-projects.svg"></a>
+	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/network/members" target="_blank"><img src="https://img.shields.io/github/forks/wbcdada/Awesome-chatgpt-projects.svg"></a>
+</p>
+
 ### ChatGPT
-
-
 
 <table style="width:100%">
   <tr>
@@ -478,41 +486,34 @@
   </tr>
   <tr>
     <td>2.</td>
-    <td><a href="https://github.com/niclin/nic_meta/blob/master/contracts/nic_meta_nft.sol" target="_blank"> NFT ERC-721 Basic Example </a> </td>
-    <td>NFT简单方案</td>
-    <td>-</td> 
-    <td><a href="https://github.com/niclin/nic_meta/blob/master/contracts/nic_meta_nft.sol" target="_blank">🔗 </a> </td> 
-  </tr>
-  <tr>
-    <td>3.</td>
     <td><a href="https://github.com/wux-weapp/wux-weapp" target="_blank"> wux-weapp </a> </td>
     <td>一套组件化、可复用、易扩展的微信小程序 UI 组件库</td>
     <td><a href="https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/" target="_blank"> official </a></td> 
     <td><a href="https://www.wuxui.com/#/introduce" target="_blank">🔗doc </a> </td> 
   </tr>
   <tr>
-    <td>4.</td>
+    <td>3.</td>
     <td><a href="https://github.com/opendigg/awesome-github-wechat-weapp" target="_blank"> awesome-github-wechat-weapp </a> </td>
     <td>微信小程序开源项目库汇总</td>
     <td>-</td> 
     <td><a href="https://github.com/opendigg/awesome-github-wechat-weapp" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>5.</td>
+    <td>4.</td>
     <td><a href="https://github.com/Gwokhov/chronus" target="_blank"> chronus </a> </td>
     <td>一款能帮助管理生活目标的微信小程序</td>
     <td>-</td> 
     <td><a href="https://github.com/Gwokhov/chronus" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>6.</td>
+    <td>5.</td>
     <td><a href="https://github.com/TaleLin/lin-ui" target="_blank"> lin-ui </a> </td>
     <td>简洁、易用、灵魂的微信小程序组库</td>
     <td>-</td> 
     <td><a href="https://doc.mini.talelin.com/start/" target="_blank">🔗doc </a> </td> 
   </tr>
   <tr>
-    <td>7.</td>
+    <td>6.</td>
     <td><a href="https://github.com/justjavac/awesome-wechat-weapp#demo" target="_blank"> awesome-wechat-weapp </a> </td>
     <td>微信小程序开发资源汇</td>
     <td>-</td> 
@@ -749,3 +750,13 @@ BT客户端、
     <td ><a href="https://github.com/luyi404/TrashVideoGenerator" target="_blank" >🔗 </a> </td> 
   </tr>
 </table>
+### Contact Me
+<p >
+	<p >
+		<em>整理不易，给点小小的赞助~</em>
+	</p>
+	<img src="./docs/wx.jpg" alt="Sample"  width="324" height="504">
+	<img src="./docs/wxpay.jpg" alt="Sample"  width="324" height="504">
+	<img src="./docs/alipay.jpg" alt="Sample"  width="324" height="504">
+</p>
+<br/><br/><br/>

@@ -798,6 +798,33 @@
       <a href="https://www.aminer.cn/" target="_blank" >🔗</a>
     </td> 
   </tr>
+  <tr>
+    <td>45.</td>
+    <td><a href="https://alexlenail.me/NN-SVG/LeNet.html" target="_blank">NN-SVG</a> </td>
+    <td>神经网络可视化工具</td>
+    <td>-</td> 
+    <td >
+      <a href="https://alexlenail.me/NN-SVG/LeNet.html" target="_blank" >🔗</a>
+    </td> 
+  </tr>
+  <tr>
+    <td>46.</td>
+    <td><a href="https://netron.app/" target="_blank">netron</a> </td>
+    <td>模型可视化工具</td>
+    <td>-</td> 
+    <td >
+      <a href="https://netron.app/" target="_blank" >🔗</a>
+    </td> 
+  </tr>
+  <tr>
+    <td>47.</td>
+    <td><a href="https://selfie2anime.com/" target="_blank">selfie2anime</a> </td>
+    <td>人脸转动漫</td>
+    <td>-</td> 
+    <td >
+      <a href="https://selfie2anime.com/" target="_blank" >🔗</a>
+    </td> 
+  </tr>
 </table>
 
 ### 微信小程序

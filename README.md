@@ -5,6 +5,7 @@
 </div>
 [![GitHub forks](https://img.shields.io/github/forks/wbcdada/Awesome-chatgpt-projects.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/wbcdada/Awesome-chatgpt-projects/network)
 [![GitHub stars](https://img.shields.io/github/stars/wbcdada/Awesome-chatgpt-projects.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wbcdada/Awesome-chatgpt-projects/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/zhixuhao/unet.svg?logo=github&label=Stars)](https://github.com/zhixuhao/unet)
 <table style="width:100%">
   <tr>
     <td>1.</td>

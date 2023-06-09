@@ -201,30 +201,114 @@
   <tr>
     <td>2.</td>
     <td><a href="https://poe.com/" target="_blank"> Poe.com </a> </td>
-    <td>GPT4 1次</td>
+    <td>GPT4 1次/天</td>
     <td>-</td>
     <td><a href="https://poe.com/" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
     <td>3.</td>
-    <td><a href="https://poe.com/" target="_blank"> Poe.com </a> </td>
-    <td>GPT4 1次</td>
+    <td><a href="https://chatgpt.ai/gpt-4/" target="_blank"> chatgpt.ai </a> </td>
+    <td>GPT4 3次/天</td>
     <td>-</td>
-    <td><a href="https://poe.com/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://chatgpt.ai" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>2.</td>
-    <td><a href="https://poe.com/" target="_blank"> Poe.com </a> </td>
-    <td>GPT4 1次</td>
+    <td>4.</td>
+    <td><a href="https://nat.dev/" target="_blank"> nat.dev </a> </td>
+    <td>计费制</td>
     <td>-</td>
-    <td><a href="https://poe.com/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://nat.dev/" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>2.</td>
-    <td><a href="https://poe.com/" target="_blank"> Poe.com </a> </td>
-    <td>GPT4 1次</td>
+    <td>5.</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
+    <td>GPT4 5次/天</td>
     <td>-</td>
-    <td><a href="https://poe.com/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td><a href="https://chat.forefront.ai/" target="_blank"> forefront.ai </a> </td>
+    <td>GPT4 无限次</td>
+    <td>-</td>
+    <td><a href="https://chat.forefront.ai/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td><a href="https://www.liblibai.com/#/" target="_blank"> liblibai</a> </td>
+    <td>国内AI模型社区</td>
+    <td>-</td>
+    <td><a href="https://www.liblibai.com/#/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td><a href="https://cloud.jina.ai/" target="_blank"> jina.ai </a> </td>
+    <td>简单易用的云原生多模态神经搜索框架</td>
+    <td>-</td>
+    <td><a href="https://cloud.jina.ai/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td><a href="https://huggingface.co/spaces/ysharma/ChatGPT4" target="_blank">ChatGPT4 </a> </td>
+    <td>GPT4 无限次</td>
+    <td>-</td>
+    <td><a href="https://huggingface.co/spaces/ysharma/ChatGPT4" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td><a href="https://www.ref-n-write.com/academic-phrasebank/" target="_blank"> academic-phrasebank </a> </td>
+    <td>论文改写</td>
+    <td>-</td>
+    <td><a href="https://www.ref-n-write.com/academic-phrasebank/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
+    <td>GPT4 5次/天</td>
+    <td>-</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
+    <td>GPT4 5次/天</td>
+    <td>-</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
+    <td>GPT4 5次/天</td>
+    <td>-</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
+    <td>GPT4 5次/天</td>
+    <td>-</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
+    <td>GPT4 5次/天</td>
+    <td>-</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
+    <td>GPT4 5次/天</td>
+    <td>-</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
+    <td>GPT4 5次/天</td>
+    <td>-</td>
+    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
   </tr>
 </table>
 

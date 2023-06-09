@@ -375,10 +375,10 @@
   </tr>
   <tr>
     <td>27.</td>
-    <td><a href="https://app.wordtune.com/editor/" target="_blank">wordtune</a> </td>
-    <td>AI 音乐编辑器</td>
+    <td><a href="https://mubert.com/" target="_blank">mubert</a> </td>
+    <td>AI 音乐生成</td>
     <td>-</td>
-    <td><a href="https://app.wordtune.com/editor/" target="_blank">🔗 </a> </td> 
+    <td><a href="https://mubert.com/" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
     <td>28.</td>

@@ -24,14 +24,17 @@
 	    <a href="https://console.cloud.google.com/" target="_blank" >🔗api3 </a>
     </td> 
   </tr>
-
-  <tr>
+<tr>
     <td>2.</td>
-    <td><a href="https://github.com/xx025/carrot" target="_blank"> ChatGPT Site List </a> </td>
-    <td>ChatGPT镜像站点</td>
+    <td><a href="https://github.com/reworkd/AgentGPT" target="_blank">AgentGPT</a> </td>
+    <td>浏览器中组装、配置和部署自主 AI 代理</td>
     <td>-</td> 
-    <td><a href="https://github.com/xx025/carrot" target="_blank">🔗 </a> </td> 
+    <td >
+      <a href="https://agentgpt.reworkd.ai/zh" target="_blank" >🔗website </a>
+<a href="https://docs.reworkd.ai/" target="_blank" >🔗doc </a>
+    </td> 
   </tr>
+
   <tr>
     <td>3.</td>
     <td><a href="https://github.com/fuergaosi233/wechat-chatgpt" target="_blank"> wechat-chatgpt </a> </td>
@@ -180,16 +183,7 @@
 <a href="https://fastgpt.run/" target="_blank" >🔗demo2 </a>
     </td> 
   </tr>
-<tr>
-    <td>21.</td>
-    <td><a href="https://github.com/reworkd/AgentGPT" target="_blank">AgentGPT</a> </td>
-    <td>浏览器中组装、配置和部署自主 AI 代理</td>
-    <td>-</td> 
-    <td >
-      <a href="https://agentgpt.reworkd.ai/zh" target="_blank" >🔗website </a>
-<a href="https://docs.reworkd.ai/" target="_blank" >🔗doc </a>
-    </td> 
-  </tr>
+
 
 </table>
 
@@ -203,7 +197,13 @@
     <td>-</td>
     <td><a href="https://poe.com/" target="_blank">🔗 </a> </td> 
   </tr>
-	
+  <tr>
+    <td>2.</td>
+    <td><a href="https://github.com/xx025/carrot" target="_blank"> ChatGPT Site List </a> </td>
+    <td>ChatGPT镜像站点</td>
+    <td>-</td> 
+    <td><a href="https://github.com/xx025/carrot" target="_blank">🔗 </a> </td> 
+  </tr>	
 
 </table>
 

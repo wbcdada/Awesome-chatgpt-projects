@@ -135,6 +135,16 @@
     <td >
       <a href="https://github.com/zilliztech/GPTCache" target="_blank" >🔗 </a>
     </td> 
+</tr>
+	<tr>
+    <td>17.</td>
+    <td><a href="https://github.com/InterestingDarkness/ChatSydney" target="_blank">ChatSydney</a> </td>
+    <td>EdgeGPT的GUI</td>
+    <td>-</td> 
+    <td >
+      <a href="https://github.com/InterestingDarkness/ChatSydney" target="_blank" >🔗 </a>
+    </td> 
+  </tr>
 </table>
 
 ### 人工智能

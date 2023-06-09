@@ -3,8 +3,8 @@
 <div align="center">
   <img src="./docs/1.png" alt="cover" width="100%">
 </div>
-[![GitHub forks](https://img.shields.io/github/forks/wbcbaba/repo.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/wbcbaba/repo/fork)
-
+[![GitHub forks](https://img.shields.io/github/forks/wbcdada/Awesome-chatgpt-projects.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/wbcdada/Awesome-chatgpt-projects/network)
+[![GitHub stars](https://img.shields.io/github/stars/wbcdada/Awesome-chatgpt-projects.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wbcdada/Awesome-chatgpt-projects/stargazers)
 <table style="width:100%">
   <tr>
     <td>1.</td>

@@ -262,53 +262,123 @@
     <td><a href="https://www.ref-n-write.com/academic-phrasebank/" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>5.</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
-    <td>GPT4 5次/天</td>
-    <td>-</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+    <td>11.</td>
+    <td><a href="https://chat.phitrellis.com/document" target="_blank"> phitrellis</a> </td>
+    <td>GPT4 1次</td>
+    <td>文献解析</td>
+    <td><a href="https://chat.phitrellis.com/document" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>5.</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
-    <td>GPT4 5次/天</td>
-    <td>-</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+    <td>12.</td>
+    <td><a href="https://app.writesonic.com/library/0a41607d-0145-4765-af29-901475445594/all" target="_blank"> writesonic </a> </td>
+    <td>AI写作</td>
+    <td>文章和博客、广告和营销工具、一般写作、电子商务社交媒体、网站复制</td>
+    <td><a href="https://app.writesonic.com/library/0a41607d-0145-4765-af29-901475445594/all" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>5.</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
-    <td>GPT4 5次/天</td>
+    <td>13.</td>
+    <td><a href="https://www.autodraw.com/" target="_blank"> autodraw </a> </td>
+    <td>自动绘图</td>
     <td>-</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+    <td><a href="https://www.autodraw.com/" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>5.</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
-    <td>GPT4 5次/天</td>
+    <td>14.</td>
+    <td><a href="http://motion.yoo-ai.com/" target="_blank"> Motiongo </a> </td>
+    <td>AI生成PPT，chatPPT</td>
     <td>-</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+    <td><a href="http://motion.yoo-ai.com/" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>5.</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
-    <td>GPT4 5次/天</td>
+    <td>15.</td>
+    <td><a href="https://prompts.chat/" target="_blank"> prompts </a> </td>
+    <td>chatGPT提示词</td>
     <td>-</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+    <td><a href="https://prompts.chat/" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>5.</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
-    <td>GPT4 5次/天</td>
+    <td>16.</td>
+    <td><a href="https://app.copy.ai/" target="_blank"> copy.ai </a> </td>
+    <td>chatGPT3</td>
     <td>-</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+    <td><a href="https://app.copy.ai/" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>5.</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank"> ora.ai </a> </td>
-    <td>GPT4 5次/天</td>
+    <td>17.</td>
+    <td><a href="https://app.fliki.ai/" target="_blank">fliki.ai </a> </td>
+    <td>AI配音</td>
     <td>-</td>
-    <td><a href="https://ora.ai/openai/gpt4" target="_blank">🔗 </a> </td> 
+    <td><a href="https://app.fliki.ai/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td><a href="https://www.connectedpapers.com/" target="_blank">connectedpapers </a> </td>
+    <td>可视化查找论文文献</td>
+    <td>-</td>
+    <td><a href="https://www.connectedpapers.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td><a href="https://prompthero.com/" target="_blank">prompthero </a> </td>
+    <td>AI绘图提示词</td>
+    <td>-</td>
+    <td><a href="https://prompthero.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td><a href="https://quillbot.com/" target="_blank">quillbot </a> </td>
+    <td>AI论文改写，摘要，生成引文</td>
+    <td>-</td>
+    <td><a href="https://prompthero.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>21.</td>
+    <td><a href="https://www.paraphraser.io/" target="_blank">paraphraser </a> </td>
+    <td>AI论文改写</td>
+    <td>-</td>
+    <td><a href="https://www.paraphraser.io/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>22.</td>
+    <td><a href="https://tome.app/" target="_blank">tome </a> </td>
+    <td>AI生成故事，文字转视频和动画</td>
+    <td>-</td>
+    <td><a href="https://tome.app/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>23.</td>
+    <td><a href="https://www.notion.so/" target="_blank">notion </a> </td>
+    <td>企业规划</td>
+    <td>-</td>
+    <td><a href="https://www.notion.so/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>24.</td>
+    <td><a href="https://www.veed.io/" target="_blank">veed </a> </td>
+    <td>AI生成视频</td>
+    <td>-</td>
+    <td><a href="https://www.veed.io/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>25.</td>
+    <td><a href="https://studio.d-id.com/" target="_blank">d-id </a> </td>
+    <td>AI生成视频</td>
+    <td>-</td>
+    <td><a href="https://studio.d-id.com/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>26.</td>
+    <td><a href="https://www.futurepedia.io/" target="_blank">futurepedia </a> </td>
+    <td>最大的AI 工具目录</td>
+    <td>-</td>
+    <td><a href="https://www.futurepedia.io/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>27.</td>
+    <td><a href="https://app.wordtune.com/editor/" target="_blank">wordtune</a> </td>
+    <td>AI 音乐编辑器</td>
+    <td>-</td>
+    <td><a href="https://app.wordtune.com/editor/" target="_blank">🔗 </a> </td> 
   </tr>
 </table>
 
@@ -363,7 +433,10 @@
     <td><a href="https://github.com/ShusenTang/Dive-into-DL-PyTorch" target="_blank">Dive-into-DL-PyTorch</a> </td>
     <td>《动手学深度学习》 书中MXNet代码实现改为PyTorch实现</td>
     <td><a href="https://github.com/d2l-ai/d2l-zh" target="_blank">original</a></td> 
-    <td ><a href="https://tangshusen.me/Dive-into-DL-PyTorch/#/" target="_blank" >🔗Page </a> <a href="https://docsify.js.org/#/zh-cn/" target="_blank" >🔗GitHub文档生成器 </a> </td> 
+    <td ><a href="https://tangshusen.me/Dive-into-DL-PyTorch/#/" target="_blank" >🔗Page </a> 
+	    <a href="https://docsify.js.org/#/zh-cn/" target="_blank" >🔗GitHub文档生成器 </a> 
+	    <a href="http://zh.d2l.ai/" target="_blank" >🔗《动手学深度学习》第二版 </a>
+	  </td> 
   </tr>
   <tr>
     <td>8.</td>
@@ -672,6 +745,15 @@
       <a href="https://colab.research.google.com/drive/1ohKCiOwZrhM3pza4L93AHAfMkIkJ5YQF" >🔗vedioColab</a>
     </td> 
   </tr>
+  <tr>
+    <td>41.</td>
+    <td><a href="https://github.com/lyhue1991/eat_pytorch_in_20_days" target="_blank">eat_pytorch_in_20_days</a> </td>
+    <td>20天学会pytorch</td>
+    <td>-</td> 
+    <td >
+      <a href="https://www.bilibili.com/video/BV1Ua411P7oe/?vd_source=363bb97ace02c5758c523d6592fcc513" target="_blank" >🔗vedio</a>
+    </td> 
+  </tr>
 </table>
 
 ### 微信小程序
@@ -780,7 +862,7 @@
     <td><a href="https://github.com/pynecone-io/pynecone" target="_blank">pynecone </a> </td>
     <td>纯 Python 中的高性能、可自定义的 Web 应用程序</td>
     <td>-</td> 
-    <td><a href="https://github.com/pynecone-io" target="_blank">🔗 </a> </td> 
+    <td><a href="https://pynecone.io/docs/gallery" target="_blank">🔗gallery </a> </td> 
   </tr>
 </table>
 

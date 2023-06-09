@@ -3,7 +3,10 @@
 <div align="center">
   <img src="./docs/1.png" alt="cover" width="100%">
 </div>
-
+<p align="center">
+	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/d2-projects/d2-admin.svg"></a>
+	<a href="https://github.com/wbcdada/Awesome-chatgpt-projects/network/members" target="_blank"><img src="https://img.shields.io/github/forks/d2-projects/d2-admin.svg"></a>
+</p>
 <table style="width:100%">
   <tr>
     <td>1.</td>
@@ -479,41 +482,34 @@
   </tr>
   <tr>
     <td>2.</td>
-    <td><a href="https://github.com/niclin/nic_meta/blob/master/contracts/nic_meta_nft.sol" target="_blank"> NFT ERC-721 Basic Example </a> </td>
-    <td>NFT简单方案</td>
-    <td>-</td> 
-    <td><a href="https://github.com/niclin/nic_meta/blob/master/contracts/nic_meta_nft.sol" target="_blank">🔗 </a> </td> 
-  </tr>
-  <tr>
-    <td>3.</td>
     <td><a href="https://github.com/wux-weapp/wux-weapp" target="_blank"> wux-weapp </a> </td>
     <td>一套组件化、可复用、易扩展的微信小程序 UI 组件库</td>
     <td><a href="https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/" target="_blank"> official </a></td> 
     <td><a href="https://www.wuxui.com/#/introduce" target="_blank">🔗doc </a> </td> 
   </tr>
   <tr>
-    <td>4.</td>
+    <td>3.</td>
     <td><a href="https://github.com/opendigg/awesome-github-wechat-weapp" target="_blank"> awesome-github-wechat-weapp </a> </td>
     <td>微信小程序开源项目库汇总</td>
     <td>-</td> 
     <td><a href="https://github.com/opendigg/awesome-github-wechat-weapp" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>5.</td>
+    <td>4.</td>
     <td><a href="https://github.com/Gwokhov/chronus" target="_blank"> chronus </a> </td>
     <td>一款能帮助管理生活目标的微信小程序</td>
     <td>-</td> 
     <td><a href="https://github.com/Gwokhov/chronus" target="_blank">🔗 </a> </td> 
   </tr>
   <tr>
-    <td>6.</td>
+    <td>5.</td>
     <td><a href="https://github.com/TaleLin/lin-ui" target="_blank"> lin-ui </a> </td>
     <td>简洁、易用、灵魂的微信小程序组库</td>
     <td>-</td> 
     <td><a href="https://doc.mini.talelin.com/start/" target="_blank">🔗doc </a> </td> 
   </tr>
   <tr>
-    <td>7.</td>
+    <td>6.</td>
     <td><a href="https://github.com/justjavac/awesome-wechat-weapp#demo" target="_blank"> awesome-wechat-weapp </a> </td>
     <td>微信小程序开发资源汇</td>
     <td>-</td> 

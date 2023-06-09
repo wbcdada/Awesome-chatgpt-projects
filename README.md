@@ -750,13 +750,16 @@ BT客户端、
     <td ><a href="https://github.com/luyi404/TrashVideoGenerator" target="_blank" >🔗 </a> </td> 
   </tr>
 </table>
+
 ### Contact Me
-<p >
+
+<div >
 	<p >
 		<em>整理不易，给点小小的赞助~</em>
 	</p>
-	<img src="./docs/wx.jpg" alt="Sample"  width="324" height="504">
-	<img src="./docs/wxpay.jpg" alt="Sample"  width="324" height="504">
-	<img src="./docs/alipay.jpg" alt="Sample"  width="324" height="504">
-</p>
+	<img src="./docs/wx.jpg" alt="Sample"  width="200" height="300">
+	<img src="./docs/wxpay.jpg" alt="Sample"  width="200" height="300">
+	<img src="./docs/alipay.jpg" alt="Sample"  width="200" height="300">
+</div>
+
 <br/><br/><br/>

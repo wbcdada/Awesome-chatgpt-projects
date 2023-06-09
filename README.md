@@ -1,7 +1,9 @@
 # Awesome-chatgpt-projects
 ### ChatGPT
 ![cover](./docs/1.png)
-
+<div align="center">
+  <img src="./docs/1.png" alt="cover" width="100%">
+</div>
 
 <table style="width:100%">
   <tr>

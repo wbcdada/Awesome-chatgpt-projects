@@ -759,23 +759,5 @@ BT客户端、
 	<img src="./docs/wxpay.jpg" alt="Sample"  width="324" height="504">
 	<img src="./docs/alipay.jpg" alt="Sample"  width="324" height="504">
 </div>
-<style>
-  .donate {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    margin: 20px 0;
-  }
 
-  .donate-images {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .donate-images img {
-    margin: 10px;
-  }
-</style>
 <br/><br/><br/>

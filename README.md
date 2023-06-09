@@ -388,6 +388,7 @@
     <td><a href="https://www.myheritage.co.kr/deep-nostalgia" target="_blank">🔗 </a> </td> 
   </tr>
 
+</table>
 
 ### 人工智能
 

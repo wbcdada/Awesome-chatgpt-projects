@@ -827,6 +827,24 @@
       <a href="https://github.com/sfvsfv/ComputerStudent" target="_blank" >🔗</a>
     </td> 
   </tr>
+  <tr>
+    <td>49.</td>
+    <td><a href="http://www.thingjs.com/guide/city2/?source=baidu&plan=ThingJSgongneng&unit=3Djianmo&keyword=zhaopianshengcheng3dtouxiangmoxing&e_creative=58328204703&e_keywordid=496319294959&e_keywordid2=496319294959&bd_vid=10893229853814777659" target="_blank">CityBuilder</a> </td>
+    <td>物联网3D地图搭建工具</td>
+    <td>-</td> 
+    <td >
+      <a href="http://www.thingjs.com" target="_blank" >🔗</a>
+    </td> 
+  </tr>
+  <tr>
+    <td>50.</td>
+    <td><a href="https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8" target="_blank">facial-recognition-pipeline</a> </td>
+    <td>在 Tensorflow 中使用深度学习构建面部识别pipeline</td>
+    <td>-</td> 
+    <td >
+      <a href="https://github.com/sfvsfv/ComputerStudent" target="_blank" >🔗</a>
+    </td> 
+  </tr>
 </table>
 
 ### 微信小程序

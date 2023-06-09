@@ -109,6 +109,24 @@
       <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web" target="_blank" >🔗deploy </a>
     </td> 
   </tr>
+<tr>
+    <td>14.</td>
+    <td><a href="https://github.com/zxs731/DocRobot/" target="_blank">DocRobot</a> </td>
+    <td>本地搭建文档会话机器人</td>
+    <td>Langchain+Flask+AzureOpenAI+Chromadb</td> 
+    <td >
+      <a href="https://www.bilibili.com/video/BV1ho4y1G7uy/?spm_id_from=333.788&vd_source=363bb97ace02c5758c523d6592fcc513" target="_blank" >🔗vedio </a>
+    </td> 
+  </tr>
+	<tr>
+    <td>15.</td>
+    <td><a href="https://github.com/adams549659584/go-proxy-bingai" target="_blank">go-proxy-bingai</a> </td>
+    <td>用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用</td>
+    <td>-</td> 
+    <td >
+      <a href="https://bing.vcanbb.top/web/#/" target="_blank" >🔗website </a>
+    </td> 
+  </tr>
 </table>
 
 ### 人工智能

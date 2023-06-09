@@ -154,6 +154,16 @@
       <a href="https://www.youtube.com/watch?v=ih9PBGVVOO4" target="_blank" >🔗vedio </a>
     </td> 
   </tr>
+<tr>
+    <td>19.</td>
+    <td><a href="AutoGPTQ：https://github.com/PanQiWei/AutoGPTQ" target="_blank">AutoGPTQ</a> </td>
+    <td>基于 GPTQ 算法的易于使用的 LLM 量化包</td>
+    <td>-</td> 
+    <td >
+      <a href="https://zhuanlan.zhihu.com/p/616969812" target="_blank" >🔗intro </a>
+<a href="https://readpaper.feishu.cn/docx/OPP2dTuXAoaO0oxWhQAcC05Wnpc" target="_blank" >🔗paper </a>
+    </td> 
+  </tr>
 </table>
 
 ### 人工智能
